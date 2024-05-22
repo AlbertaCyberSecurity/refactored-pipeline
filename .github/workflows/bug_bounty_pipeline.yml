@@ -1,0 +1,50 @@
+name: Bug Bounty Pipeline
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight
+  workflow_dispatch:  # Allows manual triggering of the workflow
+
+jobs:
+  bug_bounty:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install Tools
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y subfinder amass httpx anew
+
+    - name: Run Subfinder
+      run: |
+        subfinder -d example.com -o subfinder_results.txt
+
+    - name: Run Amass
+      run: |
+        amass enum -d example.com -o amass_results.txt
+
+    - name: Run HTTPX
+      run: |
+        cat subfinder_results.txt | httpx -silent -o httpx_results.txt
+
+    - name: Merge Results with Anew
+      run: |
+        cat subfinder_results.txt amass_results.txt httpx_results.txt | anew final_results.txt
+
+    - name: Commit and Push Results
+      run: |
+        git config --local user.email "jareddarkweb@gmail.com"
+        git config --local user.name "jaredarkweb"
+        git add final_results.txt
+        git commit -m "Update results"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
