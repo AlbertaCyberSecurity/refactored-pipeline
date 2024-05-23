@@ -14,33 +14,32 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Set up Go
-      uses: actions/setup-go@v4
+      uses: actions/setup-go@v3
       with:
-        go-version: '1.18'
+        go-version: '1.20'  # Use Go 1.20 to ensure compatibility
 
-    - name: Install Tools
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y curl unzip
-        # Install Subfinder
-        go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
-        sudo mv ~/go/bin/subfinder /usr/local/bin/subfinder
-        # Install Amass
-        go install -v github.com/owasp-amass/amass/v4/...@master
-        sudo mv ~/go/bin/amass /usr/local/bin/amass
-        # Install HTTPX
-        go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
-        sudo mv ~/go/bin/httpx /usr/local/bin/httpx
-        # Install Anew
-        go install -v github.com/tomnomnom/anew@latest
-        sudo mv ~/go/bin/anew /usr/local/bin/anew
+    - name: Verify Go Version
+      run: go version
 
-    - name: Verify Installation
+    - name: Install Subfinder
       run: |
-        subfinder -version
-        amass -version
-        httpx -version
-        anew -version
+        go install github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+        sudo mv ~/go/bin/subfinder /usr/local/bin/
+
+    - name: Install Amass
+      run: |
+        go install github.com/OWASP/Amass/v3/...@latest
+        sudo mv ~/go/bin/amass /usr/local/bin/
+
+    - name: Install HTTPX
+      run: |
+        go install github.com/projectdiscovery/httpx/cmd/httpx@latest
+        sudo mv ~/go/bin/httpx /usr/local/bin/
+
+    - name: Install Anew
+      run: |
+        go install github.com/tomnomnom/anew@latest
+        sudo mv ~/go/bin/anew /usr/local/bin/
 
     - name: Run Subfinder
       run: |
@@ -67,6 +66,4 @@ jobs:
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
 
