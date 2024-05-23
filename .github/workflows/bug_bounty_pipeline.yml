@@ -23,16 +23,16 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y curl unzip
         # Install Subfinder
-        GO111MODULE=on go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+        go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
         sudo mv ~/go/bin/subfinder /usr/local/bin/subfinder
         # Install Amass
-        GO111MODULE=on go install -v github.com/OWASP/Amass/v3/...@master
+        go install -v github.com/owasp-amass/amass/v4/...@master
         sudo mv ~/go/bin/amass /usr/local/bin/amass
         # Install HTTPX
-        GO111MODULE=on go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
+        go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
         sudo mv ~/go/bin/httpx /usr/local/bin/httpx
         # Install Anew
-        GO111MODULE=on go install -v github.com/tomnomnom/anew@latest
+        go install -v github.com/tomnomnom/anew@latest
         sudo mv ~/go/bin/anew /usr/local/bin/anew
 
     - name: Verify Installation
