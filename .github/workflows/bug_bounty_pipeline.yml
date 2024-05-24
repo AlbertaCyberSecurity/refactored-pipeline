@@ -21,6 +21,22 @@ jobs:
     - name: Verify Go Version
       run: go version
 
+    - name: Cache Go modules
+      uses: actions/cache@v3
+      with:
+        path: ~/go/pkg/mod
+        key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
+        restore-keys: |
+          ${{ runner.os }}-go-
+
+    - name: Cache Go build
+      uses: actions/cache@v3
+      with:
+        path: ~/go/bin
+        key: ${{ runner.os }}-go-build-${{ hashFiles('**/go.sum') }}
+        restore-keys: |
+          ${{ runner.os }}-go-build-
+
     - name: Install Subfinder
       run: |
         go install github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
@@ -28,7 +44,7 @@ jobs:
 
     - name: Install Amass
       run: |
-        go install github.com/OWASP/Amass/v3/...@latest
+        go install github.com/owasp-amass/amass/v3/...@latest
         sudo mv ~/go/bin/amass /usr/local/bin/
 
     - name: Install HTTPX
