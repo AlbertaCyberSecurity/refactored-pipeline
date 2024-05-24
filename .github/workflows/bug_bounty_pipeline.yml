@@ -8,7 +8,7 @@ on:
 jobs:
   bug_bounty:
     runs-on: ubuntu-latest
-    timeout-minutes: 120  # Set a custom timeout for the job
+    timeout-minutes: 240  # Set a custom timeout for the job
 
     steps:
     - name: Checkout Repository
@@ -69,14 +69,14 @@ jobs:
     - name: Run Subfinder
       run: |
         echo "Running Subfinder"
-        subfinder -d example.com -o subfinder_results.txt
+        subfinder -d yahoo.com -o subfinder_results.txt
       timeout-minutes: 30  # Set a timeout for this step
 
     - name: Run Amass
       run: |
         echo "Running Amass"
-        amass enum -d example.com -o amass_results.txt
-      timeout-minutes: 30  # Set a timeout for this step
+        amass enum -d yahoo.com -o amass_results.txt
+      timeout-minutes: 120  # Increase the timeout for this step to 2 hours
 
     - name: Run HTTPX
       run: |
