@@ -7,7 +7,7 @@ on:
 
 jobs:
   bug_bounty:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     timeout-minutes: 700  # Set a custom timeout for the job
 
     steps:
@@ -88,7 +88,7 @@ jobs:
       run: |
         echo "Merging Results with Anew"
         cat subfinder_results.txt amass_results.txt httpx_results.txt | anew final_results.txt
-      timeout-minutes: 39  # Set a timeout for this step
+      timeout-minutes: 200  # Set a timeout for this step
 
     - name: Commit and Push Results
       run: |
