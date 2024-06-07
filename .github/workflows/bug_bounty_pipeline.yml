@@ -7,8 +7,8 @@ on:
 
 jobs:
   bug_bounty:
-    runs-on: self-hosted
-    timeout-minutes: 700  # Set a custom timeout for the job
+    runs-on: ubuntu-latest
+    timeout-minutes: 120  # Set a custom timeout for the job
 
     steps:
     - name: Checkout Repository
@@ -45,13 +45,6 @@ jobs:
         sudo mv ~/go/bin/subfinder /usr/local/bin/
       timeout-minutes: 10  # Set a timeout for this step
 
-    - name: Install Amass
-      run: |
-        echo "Installing Amass"
-        go install github.com/owasp-amass/amass/v3/...@latest
-        sudo mv ~/go/bin/amass /usr/local/bin/
-      timeout-minutes: 10  # Set a timeout for this step
-
     - name: Install HTTPX
       run: |
         echo "Installing HTTPX"
@@ -69,26 +62,20 @@ jobs:
     - name: Run Subfinder
       run: |
         echo "Running Subfinder"
-        subfinder -d manulife.com -o subfinder_results.txt
-      timeout-minutes: 300  # Set a timeout for this step
-
-    - name: Run Amass
-      run: |
-        echo "Running Amass"
-        amass enum -d manulife.com -o amass_results.txt
-      timeout-minutes: 400  # Increase the timeout for this step to 2 hours
+        subfinder -d yahoo.com -o subfinder_results.txt
+      timeout-minutes: 30  # Set a timeout for this step
 
     - name: Run HTTPX
       run: |
         echo "Running HTTPX"
         cat subfinder_results.txt | httpx -silent -o httpx_results.txt
-      timeout-minutes: 300  # Set a timeout for this step
+      timeout-minutes: 15  # Set a timeout for this step
 
     - name: Merge Results with Anew
       run: |
         echo "Merging Results with Anew"
-        cat subfinder_results.txt amass_results.txt httpx_results.txt | anew final_results.txt
-      timeout-minutes: 200  # Set a timeout for this step
+        cat subfinder_results.txt httpx_results.txt | anew final_results.txt
+      timeout-minutes: 5  # Set a timeout for this step
 
     - name: Commit and Push Results
       run: |
@@ -100,6 +87,5 @@ jobs:
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      timeout-minutes: 1000  # Set a timeout for this step
-
+      timeout-minutes: 10  # Set a timeout for this step
 
