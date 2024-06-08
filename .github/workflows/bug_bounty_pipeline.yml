@@ -63,19 +63,19 @@ jobs:
       run: |
         echo "Running Subfinder"
         subfinder -d yahoo.com -o subfinder_results.txt
-      timeout-minutes: 30  # Set a timeout for this step
+      timeout-minutes: 90  # Set a timeout for this step
 
     - name: Run HTTPX
       run: |
         echo "Running HTTPX"
         cat subfinder_results.txt | httpx -silent -o httpx_results.txt
-      timeout-minutes: 15  # Set a timeout for this step
+      timeout-minutes: 55  # Set a timeout for this step
 
     - name: Merge Results with Anew
       run: |
         echo "Merging Results with Anew"
         cat subfinder_results.txt httpx_results.txt | anew final_results.txt
-      timeout-minutes: 5  # Set a timeout for this step
+      timeout-minutes: 99  # Set a timeout for this step
 
     - name: Commit and Push Results
       run: |
@@ -87,5 +87,5 @@ jobs:
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      timeout-minutes: 10  # Set a timeout for this step
+      timeout-minutes: 400  # Set a timeout for this step
 
