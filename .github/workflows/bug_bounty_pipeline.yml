@@ -8,7 +8,7 @@ on:
 jobs:
   bug_bounty:
     runs-on: ubuntu-latest
-    timeout-minutes: 120  # Set a custom timeout for the job
+    timeout-minutes: 500  # Set a custom timeout for the job
 
     steps:
     - name: Checkout Repository
@@ -63,19 +63,19 @@ jobs:
       run: |
         echo "Running Subfinder"
         subfinder -d yahoo.com -o subfinder_results.txt
-      timeout-minutes: 90  # Set a timeout for this step
+      timeout-minutes: 140  # Set a timeout for this step
 
     - name: Run HTTPX
       run: |
         echo "Running HTTPX"
         cat subfinder_results.txt | httpx -silent -o httpx_results.txt
-      timeout-minutes: 55  # Set a timeout for this step
+      timeout-minutes: 500  # Set a timeout for this step
 
     - name: Merge Results with Anew
       run: |
         echo "Merging Results with Anew"
         cat subfinder_results.txt httpx_results.txt | anew final_results.txt
-      timeout-minutes: 99  # Set a timeout for this step
+      timeout-minutes: 599  # Set a timeout for this step
 
     - name: Commit and Push Results
       run: |
