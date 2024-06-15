@@ -11604,3 +11604,15 @@ http://www.ie.yahoo.com
 http://www.ar.yahoo.com
 http://yappstore.yahoo.com
 http://yearinreview.yahoo.com
+http://au.biz.yahoo.com
+http://au.be.yahoo.com
+http://au.dating.yahoo.com
+http://auctions.yahoo.com
+http://ca.my.yahoo.com
+http://careers.yahoo.com
+http://client-tap.push.yahoo.com
+http://config.mobile.yahoo.com
+http://hk.blog.search.yahoo.com
+http://hk.outlet.yahoo.com
+http://omg.yahoo.com
+http://tw.edit.listing.yahoo.com
