@@ -11717,3 +11717,12 @@ http://uk.makers.yahoo.com
 http://ws.progrss.yahoo.com
 http://www.news.yahoo.com
 http://www.groups.yahoo.com
+http://au.dir.yahoo.com
+http://hk.rd.toolbar.yahoo.com
+http://hk.mobi.yahoo.com
+http://hk.searchmarketing.yahoo.com
+http://hk.user.auctions.yahoo.com
+http://realestate.yahoo.com
+http://tw.female.theme.mall.yahoo.com
+http://tw.man.theme.mall.yahoo.com
+http://view.yahoo.com
