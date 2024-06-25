@@ -11828,3 +11828,9 @@ http://test.geo.yahoo.com
 http://tw.edit.store.bid.yahoo.com
 http://tw.mall.yahoo.com
 http://uk.images.search.yahoo.com
+cn.mc153.mail.yahoo.com
+http://hk.deals.yahoo.com
+http://it.search.yahoo.com
+http://it-stage.aiuto.yahoo.com
+http://rogers.yahoo.com
+http://za.yahoo.com
