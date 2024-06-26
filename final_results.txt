@@ -11834,3 +11834,15 @@ http://it.search.yahoo.com
 http://it-stage.aiuto.yahoo.com
 http://rogers.yahoo.com
 http://za.yahoo.com
+orrbri-web01.ops.bf1.yahoo.com
+http://gws2.maps.yahoo.com
+http://it.yahoo.com
+http://mail.yahoo.com
+http://m.tw.mall.yahoo.com
+http://newlook.maktoob.yahoo.com
+http://oscars.movies.yahoo.com
+http://query2.finance.yahoo.com
+http://tw.security.yahoo.com
+http://tw.uwant.yahoo.com
+http://us.mc1614.mail.yahoo.com
+http://weather.yahoo.com
