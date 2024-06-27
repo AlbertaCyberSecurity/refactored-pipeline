@@ -11846,3 +11846,10 @@ http://tw.security.yahoo.com
 http://tw.uwant.yahoo.com
 http://us.mc1614.mail.yahoo.com
 http://weather.yahoo.com
+creators.yahoo.com
+wmc1.net.corp.bf1.yahoo.com
+https://creators.yahoo.com
+http://hk.dictionary.search.yahoo.com
+http://hotfix.m.yahoo.com
+http://smarttv.yahoo.com
+http://video.media.yql.yahoo.com
