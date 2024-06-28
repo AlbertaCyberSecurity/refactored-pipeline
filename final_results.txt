@@ -11853,3 +11853,9 @@ http://hk.dictionary.search.yahoo.com
 http://hotfix.m.yahoo.com
 http://smarttv.yahoo.com
 http://video.media.yql.yahoo.com
+gamesondemand.yahoo.com
+http://brb.yahoo.com
+http://ca.sports.yahoo.com
+https://gamesondemand.yahoo.com
+http://maktoob.yahoo.com
+http://me.yahoo.com
