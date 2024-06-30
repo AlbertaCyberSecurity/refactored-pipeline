@@ -11875,3 +11875,11 @@ http://r.search.yahoo.com
 http://tw.knowledge.yahoo.com
 http://tw.smartr.yahoo.com
 http://uk.yahoo.com
+west-dtp-oao.ybp.yahoo.com
+http://kr.suggest.yahoo.com
+http://m.tw.bid.yahoo.com
+http://movies.yahoo.com
+http://new.music.yahoo.com
+http://uk.help.yahoo.com
+https://west-dtp-oao.ybp.yahoo.com
+http://www.de.yahoo.com
