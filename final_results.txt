@@ -11913,3 +11913,9 @@ http://shopping.yahoo.com
 http://tw.futures.finance.yahoo.com
 http://user.auctions.yahoo.com
 https://web-oao.ssp.yahoo.com
+http://au.movies.yahoo.com
+http://help.cc.tw.yahoo.com
+http://hk.celebrity.yahoo.com
+http://qa.caldav.calendar.yahoo.com
+http://style.yahoo.com
+http://video.yahoo.com
