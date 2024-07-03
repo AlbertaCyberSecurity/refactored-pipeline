@@ -11919,3 +11919,9 @@ http://hk.celebrity.yahoo.com
 http://qa.caldav.calendar.yahoo.com
 http://style.yahoo.com
 http://video.yahoo.com
+pager.yahoo.com
+validate.msg.yahoo.com
+http://groups.yahoo.com
+https://pager.yahoo.com
+http://udcm.yahoo.com
+http://uk.local.yahoo.com
