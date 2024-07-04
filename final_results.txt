@@ -11925,3 +11925,14 @@ http://groups.yahoo.com
 https://pager.yahoo.com
 http://udcm.yahoo.com
 http://uk.local.yahoo.com
+http://dispatcher.yahoo.com
+http://ds-qaxms.l7.search.ystg1.b.yahoo.com
+http://e18.ycpi.amb.yahoo.com
+http://e2-ha.ycpi.aeb.yahoo.com
+http://e16.ycpi.amb.yahoo.com
+http://e19.ycpi.amb.yahoo.com
+http://e4.ycpi.amb.yahoo.com
+http://e3.ycpi.aeb.yahoo.com
+http://mx.search.yahoo.com
+http://tw.user.bid.yahoo.com
+http://videogames.yahoo.com
