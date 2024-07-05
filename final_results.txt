@@ -11936,3 +11936,4 @@ http://e3.ycpi.aeb.yahoo.com
 http://mx.search.yahoo.com
 http://tw.user.bid.yahoo.com
 http://videogames.yahoo.com
+http://gallery.tv.widgets.yahoo.com
