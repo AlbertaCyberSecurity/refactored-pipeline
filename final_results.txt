@@ -11937,3 +11937,15 @@ http://mx.search.yahoo.com
 http://tw.user.bid.yahoo.com
 http://videogames.yahoo.com
 http://gallery.tv.widgets.yahoo.com
+beta.finance.yahoo.com
+people.yahoo.com
+intheknow.yahoo.com
+mysterio.yahoo.com
+https://beta.finance.yahoo.com
+https://intheknow.yahoo.com
+http://mh.video.yahoo.com
+https://mysterio.yahoo.com
+http://music.yahoo.com
+https://people.yahoo.com
+http://promotions.yahoo.com
+http://tw.rcv.mall.yahoo.com
