@@ -11965,3 +11965,9 @@ http://tw.help.yahoo.com
 http://tw.news.search.yahoo.com
 http://tw.news.yahoo.com
 http://uk.video.search.yahoo.com
+dev.searchads.payments.yahoo.com
+www.education.yahoo.com
+https://dev.searchads.payments.yahoo.com
+http://nz.tv.yahoo.com
+http://quote.yahoo.com
+http://www.es.yahoo.com
