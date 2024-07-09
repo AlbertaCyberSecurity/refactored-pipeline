@@ -11971,3 +11971,6 @@ https://dev.searchads.payments.yahoo.com
 http://nz.tv.yahoo.com
 http://quote.yahoo.com
 http://www.es.yahoo.com
+sg.news.yahoo.com
+http://nz.yahoo.com
+https://sg.news.yahoo.com
