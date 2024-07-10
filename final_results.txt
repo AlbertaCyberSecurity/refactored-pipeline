@@ -11974,3 +11974,5 @@ http://www.es.yahoo.com
 sg.news.yahoo.com
 http://nz.yahoo.com
 https://sg.news.yahoo.com
+http://beap-bc.yahoo.com
+http://hk.answers.search.yahoo.com
