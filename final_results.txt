@@ -11976,3 +11976,10 @@ http://nz.yahoo.com
 https://sg.news.yahoo.com
 http://beap-bc.yahoo.com
 http://hk.answers.search.yahoo.com
+admin3.dom.sg3.yahoo.com
+in.sbcctool.customercare.yahoo.com
+in.admin.geo.yahoo.com
+mv.us.music.yahoo.com
+http://at.video.search.yahoo.com
+http://beta.finance.yahoo.com
+http://intheknow.yahoo.com
