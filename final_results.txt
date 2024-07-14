@@ -12008,3 +12008,5 @@ http://health.yahoo.com
 http://live.yahoo.com
 http://tw.promo.yahoo.com
 http://www.ca.yahoo.com
+http://ipr.yahoo.com
+http://jsapi.login.yahoo.com
