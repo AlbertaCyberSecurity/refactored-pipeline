@@ -12010,3 +12010,8 @@ http://tw.promo.yahoo.com
 http://www.ca.yahoo.com
 http://ipr.yahoo.com
 http://jsapi.login.yahoo.com
+http://new.ca.music.yahoo.com
+http://nz.rss.biz.yahoo.com
+http://profiles.sports.yahoo.com
+http://sg.news.yahoo.com
+http://tw.master.bid.yahoo.com
