@@ -12015,3 +12015,4 @@ http://nz.rss.biz.yahoo.com
 http://profiles.sports.yahoo.com
 http://sg.news.yahoo.com
 http://tw.master.bid.yahoo.com
+http://nz.messenger.yahoo.com
