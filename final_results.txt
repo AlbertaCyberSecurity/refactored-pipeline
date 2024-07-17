@@ -12016,3 +12016,6 @@ http://profiles.sports.yahoo.com
 http://sg.news.yahoo.com
 http://tw.master.bid.yahoo.com
 http://nz.messenger.yahoo.com
+http://lifestyle.yahoo.com
+http://rss.news.yahoo.com
+http://www.hk.yahoo.com
