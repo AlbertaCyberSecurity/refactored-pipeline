@@ -12019,3 +12019,6 @@ http://nz.messenger.yahoo.com
 http://lifestyle.yahoo.com
 http://rss.news.yahoo.com
 http://www.hk.yahoo.com
+http://contacts.yahoo.com
+http://games.search.yahoo.com
+http://mysterio.yahoo.com
