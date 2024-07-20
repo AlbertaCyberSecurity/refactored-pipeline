@@ -12022,3 +12022,11 @@ http://www.hk.yahoo.com
 http://contacts.yahoo.com
 http://games.search.yahoo.com
 http://mysterio.yahoo.com
+http://dns.ops.yahoo.com
+http://e23.ycpi.amb.yahoo.com
+http://e8.ycpi.amb.yahoo.com
+http://e34.ycpi.amb.yahoo.com
+http://espanol.yahoo.com
+http://full-ruler.secure.yahoo.com
+http://football.fantasysports.yahoo.com
+http://tw.mobi.yahoo.com
