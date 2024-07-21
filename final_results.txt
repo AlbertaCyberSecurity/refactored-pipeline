@@ -12030,3 +12030,5 @@ http://espanol.yahoo.com
 http://full-ruler.secure.yahoo.com
 http://football.fantasysports.yahoo.com
 http://tw.mobi.yahoo.com
+http://help.cc.hk.yahoo.com
+http://proddata.xobni.yahoo.com
