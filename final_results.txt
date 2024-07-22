@@ -12032,3 +12032,12 @@ http://football.fantasysports.yahoo.com
 http://tw.mobi.yahoo.com
 http://help.cc.hk.yahoo.com
 http://proddata.xobni.yahoo.com
+ai.mail.yahoo.com
+samsung.smtp.mail.yahoo.com
+samsung-query.finance.yahoo.com
+https://ai.mail.yahoo.com
+http://at.yahoo.com
+http://marketingsolutions.yahoo.com
+https://samsung-query.finance.yahoo.com
+http://tw.promo.bid.yahoo.com
+http://tw.search.bid.yahoo.com
