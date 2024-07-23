@@ -12041,3 +12041,8 @@ http://marketingsolutions.yahoo.com
 https://samsung-query.finance.yahoo.com
 http://tw.promo.bid.yahoo.com
 http://tw.search.bid.yahoo.com
+pt.search.yahoo.com
+http://fr.retrospective.yahoo.com
+http://m.yap.yahoo.com
+https://pt.search.yahoo.com
+http://samsung-query.finance.yahoo.com
