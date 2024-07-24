@@ -12046,3 +12046,15 @@ http://fr.retrospective.yahoo.com
 http://m.yap.yahoo.com
 https://pt.search.yahoo.com
 http://samsung-query.finance.yahoo.com
+us.mc1813.mail.yahoo.com
+ca.profiles.yahoo.com
+uk.profiles.yahoo.com
+p9.pf.scd.yahoo.com
+https://ca.profiles.yahoo.com
+http://data.mail.yahoo.com
+http://ec2.ycpi.amb.yahoo.com
+http://e31.ycpi.amb.yahoo.com
+http://fr.sports.yahoo.com
+http://gamesondemand.yahoo.com
+http://tw.house.yahoo.com
+https://uk.profiles.yahoo.com
