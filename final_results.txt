@@ -12062,3 +12062,5 @@ sonic321-28.consmr.mail.bf2.yahoo.com
 jimap300-2.mail.vip.gq1.yahoo.com
 sonic321.consmr.mail.bf2.yahoo.com
 http://gma.yahoo.com
+stage.pfs.yahoo.com
+https://stage.pfs.yahoo.com
