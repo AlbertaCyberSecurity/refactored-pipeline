@@ -12064,3 +12064,6 @@ sonic321.consmr.mail.bf2.yahoo.com
 http://gma.yahoo.com
 stage.pfs.yahoo.com
 https://stage.pfs.yahoo.com
+http://at.search.yahoo.com
+http://publishing.yahoo.com
+http://query1.finance.yahoo.com
