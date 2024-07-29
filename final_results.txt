@@ -12092,3 +12092,16 @@ http://research.yahoo.com
 https://sapi.stage.login.yahoo.com
 https://simplycomply.pr.login.yahoo.com
 https://tw.tv.yahoo.com
+us.f307.mail.yahoo.com
+us.f524.mail.yahoo.com
+us.f311.mail.yahoo.com
+us.f537.mail.yahoo.com
+us.f145.mail.yahoo.com
+us.f413.mail.yahoo.com
+us.f506.mail.yahoo.com
+us.f412.mail.yahoo.com
+us.f509.mail.yahoo.com
+us.f209.mail.yahoo.com
+http://e1-ha.ycpi.aeb.yahoo.com
+http://entertainment.yahoo.com
+https://research.yahoo.com
