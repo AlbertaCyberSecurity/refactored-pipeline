@@ -12105,3 +12105,9 @@ us.f209.mail.yahoo.com
 http://e1-ha.ycpi.aeb.yahoo.com
 http://entertainment.yahoo.com
 https://research.yahoo.com
+develop.news-app.abumedia.yql.yahoo.com
+smallbusiness.att.yahoo.com
+news-app.abumedia.yql.yahoo.com
+http://at.hilfe.yahoo.com
+https://news-app.abumedia.yql.yahoo.com
+http://stage.pfs.yahoo.com
