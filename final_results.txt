@@ -12111,3 +12111,10 @@ news-app.abumedia.yql.yahoo.com
 http://at.hilfe.yahoo.com
 https://news-app.abumedia.yql.yahoo.com
 http://stage.pfs.yahoo.com
+comments-gw.media.yahoo.com
+https://comments-gw.media.yahoo.com
+http://ec1.ycpi.amb.yahoo.com
+http://ec3-ha.ycpi.amb.yahoo.com
+http://ff.search.yahoo.com
+http://t2.ycpi.vip.amb.yahoo.com
+http://tw.messenger.yahoo.com
