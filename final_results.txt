@@ -12124,3 +12124,16 @@ http://ca.style.yahoo.com
 https://ncp-gw-abu.media.yahoo.com
 http://notepad.yahoo.com
 http://uk.answers.yahoo.com
+crowdstrike.autocqcfig.beta.m.yahoo.com
+crowdstrike.coconfig.beta.m.yahoo.com
+crowdstrike.autodisidver.new.m.yahoo.com
+crowdstrike.www.new.m.yahoo.com
+crowdstrike.aupediscover.beta.m.yahoo.com
+https://crowdstrike.aupediscover.beta.m.yahoo.com
+https://crowdstrike.coconfig.beta.m.yahoo.com
+https://crowdstrike.www.new.m.yahoo.com
+https://crowdstrike.autodisidver.new.m.yahoo.com
+https://crowdstrike.autocqcfig.beta.m.yahoo.com
+http://gamma.api.login.yahoo.com
+http://sapi.stage.login.yahoo.com
+http://simplycomply.pr.login.yahoo.com
