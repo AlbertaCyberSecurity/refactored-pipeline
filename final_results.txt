@@ -12161,3 +12161,6 @@ http://m.tw.search.bid.yahoo.com
 https://noa.yahoo.com
 https://nts.media.yahoo.com
 http://tw.imgup.bid.yahoo.com
+http://crowdstrike.www.new.m.yahoo.com
+http://crowdstrike.autocqcfig.beta.m.yahoo.com
+https://e1.ycpi.vip.dca.yahoo.com
