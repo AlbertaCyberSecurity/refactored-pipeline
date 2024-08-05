@@ -12164,3 +12164,5 @@ http://tw.imgup.bid.yahoo.com
 http://crowdstrike.www.new.m.yahoo.com
 http://crowdstrike.autocqcfig.beta.m.yahoo.com
 https://e1.ycpi.vip.dca.yahoo.com
+http://ar.yahoo.com
+http://developer.yahoo.com
