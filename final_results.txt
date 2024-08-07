@@ -12218,3 +12218,8 @@ http://stgapi.attribution.yahoo.com
 https://tdv2-app-nel-public.fp.yahoo.com
 https://testvideo.advertising.yahoo.com
 https://us-scrappy-production-public.frontpage-k8s-frontend.omega.yahoo.com
+http://astrology.yahoo.com
+http://checkout.fantasysports.yahoo.com
+http://media-router-ui71.prod.media.vip.ir2.yahoo.com
+https://stage.checkout.fantasysports.yahoo.com
+http://yearinreview.sg.yahoo.com
