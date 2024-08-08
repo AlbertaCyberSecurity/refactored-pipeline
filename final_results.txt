@@ -12223,3 +12223,8 @@ http://checkout.fantasysports.yahoo.com
 http://media-router-ui71.prod.media.vip.ir2.yahoo.com
 https://stage.checkout.fantasysports.yahoo.com
 http://yearinreview.sg.yahoo.com
+https://api.attribution.yahoo.com
+http://e1.ycpi.vip.amb.yahoo.com
+https://scrappy-production-public.frontpage-k8s-frontend.omega.yahoo.com
+https://stgapi.attribution.yahoo.com
+http://tw.tv.yahoo.com
