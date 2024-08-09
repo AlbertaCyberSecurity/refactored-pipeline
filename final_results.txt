@@ -12228,3 +12228,7 @@ http://e1.ycpi.vip.amb.yahoo.com
 https://scrappy-production-public.frontpage-k8s-frontend.omega.yahoo.com
 https://stgapi.attribution.yahoo.com
 http://tw.tv.yahoo.com
+http://geo.query.yahoo.com
+http://hp-darla-proxy-public.fp.yahoo.com
+http://nz.finance.yahoo.com
+http://publisher.yahoo.com
