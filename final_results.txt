@@ -12232,3 +12232,5 @@ http://geo.query.yahoo.com
 http://hp-darla-proxy-public.fp.yahoo.com
 http://nz.finance.yahoo.com
 http://publisher.yahoo.com
+http://e21.ycpi.amb.yahoo.com
+http://e9.ycpi.amb.yahoo.com
