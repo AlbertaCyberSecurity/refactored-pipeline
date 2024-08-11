@@ -12234,3 +12234,5 @@ http://nz.finance.yahoo.com
 http://publisher.yahoo.com
 http://e21.ycpi.amb.yahoo.com
 http://e9.ycpi.amb.yahoo.com
+http://astra.assistant.yahoo.com
+http://graviton-user-gateway.media.yahoo.com
