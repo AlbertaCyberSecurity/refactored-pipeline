@@ -12236,3 +12236,15 @@ http://e21.ycpi.amb.yahoo.com
 http://e9.ycpi.amb.yahoo.com
 http://astra.assistant.yahoo.com
 http://graviton-user-gateway.media.yahoo.com
+http://admanager.yahoo.com
+http://analytics.query.yahoo.com
+http://apis.mail.yahoo.com
+http://api.reg.yahoo.com
+http://apple-finance.query.yahoo.com
+http://e2.ycpi.vip.amb.yahoo.com
+http://e5.ycpi.amb.yahoo.com
+http://es.eurosport.yahoo.com
+http://espanol.att.yahoo.com
+http://europe.login.yahoo.com
+http://family.yahoo.com
+http://gamma.openid.yahoo.com
