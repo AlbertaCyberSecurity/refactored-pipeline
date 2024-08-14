@@ -12249,3 +12249,4 @@ http://europe.login.yahoo.com
 http://family.yahoo.com
 http://gamma.openid.yahoo.com
 http://sports-module-server-content-public.media.yahoo.com
+http://noa.yahoo.com
