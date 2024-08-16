@@ -12254,3 +12254,7 @@ xml-apac-dm.ysm.yahoo.com
 http://tw.dictionary.search.yahoo.com
 http://uk.profiles.yahoo.com
 https://xml-apac-dm.ysm.yahoo.com
+http://api.digitalhomeservices.yahoo.com
+http://tb.pbs.yahoo.com
+http://teammom.yahoo.com
+http://tw.partner.buy.yahoo.com
