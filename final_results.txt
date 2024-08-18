@@ -12261,3 +12261,5 @@ http://tw.partner.buy.yahoo.com
 http://crowdstrike.aupediscover.beta.m.yahoo.com
 http://demo.insight.yahoo.com
 http://fantasy.messenger.yahoo.com
+br.f654.mail.yahoo.com
+http://ats1.l7.search.vip.bf1.yahoo.com
