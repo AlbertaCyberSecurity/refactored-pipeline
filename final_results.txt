@@ -12282,3 +12282,6 @@ https://mt.search.yahoo.com
 https://qa2-s2s.search.yahoo.com
 https://rw.search.yahoo.com
 https://shortcuts.search.yahoo.com
+http://crowdstrike.autodisidver.new.m.yahoo.com
+http://e27.ycpi.amb.yahoo.com
+http://fi.news.search.yahoo.com
