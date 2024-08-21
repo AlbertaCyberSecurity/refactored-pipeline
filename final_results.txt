@@ -12285,3 +12285,6 @@ https://shortcuts.search.yahoo.com
 http://crowdstrike.autodisidver.new.m.yahoo.com
 http://e27.ycpi.amb.yahoo.com
 http://fi.news.search.yahoo.com
+mab.data.yahoo.com
+https://mab.data.yahoo.com
+http://qa2-s2s.search.yahoo.com
