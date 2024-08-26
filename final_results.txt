@@ -12294,3 +12294,5 @@ http://shortcuts.search.yahoo.com
 http://nz.biz.yahoo.com
 http://ncp-gw-abu.media.yahoo.com
 http://rw.search.yahoo.com
+http://mt.search.yahoo.com
+http://xml-apac-dm.ysm.yahoo.com
