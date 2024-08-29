@@ -12298,3 +12298,12 @@ http://mt.search.yahoo.com
 http://xml-apac-dm.ysm.yahoo.com
 http://public.tdv2-app-fp-production.frontpage-k8s-frontend.omega.yahoo.com
 http://qa.checkout.fantasysports.yahoo.com
+http://admin.nevec.yahoo.com
+http://ai.mail.yahoo.com
+http://answers.search.yahoo.com
+http://api-partnerinsights.yahoo.com
+http://dev.checkout.fantasysports.yahoo.com
+http://edit.secure.yahoo.com
+http://fantasysports.yahoo.com
+http://fb.member.yahoo.com
+http://finance.yahoo.com
