@@ -12310,3 +12310,6 @@ http://finance.yahoo.com
 http://us-scrappy-production-public.frontpage-k8s-frontend.omega.yahoo.com
 http://e25.ycpi.amb.yahoo.com
 http://tdv2-app-nel-public.fp.yahoo.com
+r3.us.rmi.yahoo.com
+mtaproxy107.free.mail.bf1.yahoo.com
+product.yahoo.com
