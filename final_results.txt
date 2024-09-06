@@ -12313,3 +12313,5 @@ http://tdv2-app-nel-public.fp.yahoo.com
 r3.us.rmi.yahoo.com
 mtaproxy107.free.mail.bf1.yahoo.com
 product.yahoo.com
+finannce.yahoo.com
+http://news-app.abumedia.yql.yahoo.com
