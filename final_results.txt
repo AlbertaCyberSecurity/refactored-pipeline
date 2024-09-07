@@ -12315,3 +12315,7 @@ mtaproxy107.free.mail.bf1.yahoo.com
 product.yahoo.com
 finannce.yahoo.com
 http://news-app.abumedia.yql.yahoo.com
+us-west-1-web-oao.ssp.yahoo.com
+fr.news.yahoo.com
+https://fr.news.yahoo.com
+https://us-west-1-web-oao.ssp.yahoo.com
