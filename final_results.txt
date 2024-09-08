@@ -12319,3 +12319,6 @@ us-west-1-web-oao.ssp.yahoo.com
 fr.news.yahoo.com
 https://fr.news.yahoo.com
 https://us-west-1-web-oao.ssp.yahoo.com
+http://de.nachrichten.yahoo.com
+http://extern.yahoo.com
+http://testvideo.advertising.yahoo.com
