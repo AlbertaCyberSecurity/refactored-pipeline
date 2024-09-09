@@ -12322,3 +12322,7 @@ https://us-west-1-web-oao.ssp.yahoo.com
 http://de.nachrichten.yahoo.com
 http://extern.yahoo.com
 http://testvideo.advertising.yahoo.com
+stage.stargate.creators.yahoo.com
+finance-external-services-api.finance.yahoo.com
+https://finance-external-services-api.finance.yahoo.com
+https://stage.stargate.creators.yahoo.com
