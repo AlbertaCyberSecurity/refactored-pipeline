@@ -12341,3 +12341,5 @@ https://bt.login.yahoo.com
 https://chit.yhs4.search.yahoo.com
 http://crowdstrike.coconfig.beta.m.yahoo.com
 https://east-dtp-3p.ybp.yahoo.com
+mx.f363.mail.yahoo.com
+http://chit.yhs4.search.yahoo.com
