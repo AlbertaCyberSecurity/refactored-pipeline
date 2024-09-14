@@ -12348,3 +12348,8 @@ https://bcn.fp.yahoo.com
 uk-stage.help.yahoo.com
 http://stage.stargate.creators.yahoo.com
 https://uk-stage.help.yahoo.com
+uk.yhs4.search.yahoo.com
+http://m.tw.buy.yahoo.com
+http://nts.media.yahoo.com
+http://tw.search.mall.yahoo.com
+http://uk.yhs4.search.yahoo.com
