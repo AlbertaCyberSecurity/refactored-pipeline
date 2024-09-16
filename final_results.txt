@@ -12356,3 +12356,6 @@ http://uk.yhs4.search.yahoo.com
 http://ganon.yahoo.com
 http://tw.money.yahoo.com
 https://uk.yhs4.search.yahoo.com
+yahoo.comwww.yahoo.com
+tv.dir.groups.yahoo.com
+http://bt.login.yahoo.com
