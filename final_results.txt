@@ -12359,3 +12359,9 @@ https://uk.yhs4.search.yahoo.com
 yahoo.comwww.yahoo.com
 tv.dir.groups.yahoo.com
 http://bt.login.yahoo.com
+android.smtp.mail.yahoo.com
+vibe-yql.media.yahoo.com
+music.ca.music.yahoo.com
+2002.fifaworldcup.yahoo.com
+http://gomobile.mail.yahoo.com
+https://vibe-yql.media.yahoo.com
