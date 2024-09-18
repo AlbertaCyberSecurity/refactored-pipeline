@@ -12365,3 +12365,6 @@ music.ca.music.yahoo.com
 2002.fifaworldcup.yahoo.com
 http://gomobile.mail.yahoo.com
 https://vibe-yql.media.yahoo.com
+tv.widgets.yahoo.com
+lsn.gq1.yahoo.com
+https://tv.widgets.yahoo.com
