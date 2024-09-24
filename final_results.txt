@@ -12379,3 +12379,5 @@ ns8.san.yahoo.com
 personal.mail.yahoo.com
 us.f505.mail.yahoo.com
 http://uk-stage.help.yahoo.com
+media-router-apple71.prod.media.vip.bf1.yahoo.com
+https://media-router-apple71.prod.media.vip.bf1.yahoo.com
