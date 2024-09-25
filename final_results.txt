@@ -12381,3 +12381,12 @@ us.f505.mail.yahoo.com
 http://uk-stage.help.yahoo.com
 media-router-apple71.prod.media.vip.bf1.yahoo.com
 https://media-router-apple71.prod.media.vip.bf1.yahoo.com
+test-tournament.fantasysports.yahoo.com
+yamas.ops.yahoo.com
+dev-yamas.ops.yahoo.com
+http://adspecs.yahoo.com
+http://ads.yap.yahoo.com
+http://apis.falcon.yahoo.com
+http://app-caas-public.fp.yahoo.com
+http://edit.finance.yahoo.com
+https://test-tournament.fantasysports.yahoo.com
