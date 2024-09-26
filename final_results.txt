@@ -12390,3 +12390,6 @@ http://apis.falcon.yahoo.com
 http://app-caas-public.fp.yahoo.com
 http://edit.finance.yahoo.com
 https://test-tournament.fantasysports.yahoo.com
+policies.yahoo.com
+http://media-router-apple71.prod.media.vip.bf1.yahoo.com
+https://policies.yahoo.com
