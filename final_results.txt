@@ -12393,3 +12393,7 @@ https://test-tournament.fantasysports.yahoo.com
 policies.yahoo.com
 http://media-router-apple71.prod.media.vip.bf1.yahoo.com
 https://policies.yahoo.com
+tdv2-app-nel.fp.yahoo.com
+finance-api-experiences.media.yahoo.com
+app-caas.fp.yahoo.com
+https://finance-api-experiences.media.yahoo.com
