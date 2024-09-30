@@ -12397,3 +12397,7 @@ tdv2-app-nel.fp.yahoo.com
 finance-api-experiences.media.yahoo.com
 app-caas.fp.yahoo.com
 https://finance-api-experiences.media.yahoo.com
+prod-m-node-1213.ssp.yahoo.com
+media-router-flurry74.prod.media.vip.bf1.yahoo.com
+builder.soft.cn.yahoo.com
+https://media-router-flurry74.prod.media.vip.bf1.yahoo.com
