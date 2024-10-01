@@ -12401,3 +12401,7 @@ prod-m-node-1213.ssp.yahoo.com
 media-router-flurry74.prod.media.vip.bf1.yahoo.com
 builder.soft.cn.yahoo.com
 https://media-router-flurry74.prod.media.vip.bf1.yahoo.com
+br.groiips.yahoo.com
+23.ras.yahoo.com
+e1.f343.mail.yahoo.com
+https://23.ras.yahoo.com
