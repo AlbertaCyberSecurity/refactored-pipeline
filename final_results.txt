@@ -12405,3 +12405,4 @@ br.groiips.yahoo.com
 23.ras.yahoo.com
 e1.f343.mail.yahoo.com
 https://23.ras.yahoo.com
+us.mc566.mail.yahoo.com
