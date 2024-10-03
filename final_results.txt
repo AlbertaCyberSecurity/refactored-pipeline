@@ -12406,3 +12406,8 @@ br.groiips.yahoo.com
 e1.f343.mail.yahoo.com
 https://23.ras.yahoo.com
 us.mc566.mail.yahoo.com
+pbs.yahoo.com
+api-yts.cricket.yahoo.com
+https://api-yts.cricket.yahoo.com
+http://e2.ycpi.vip.dca.yahoo.com
+https://pbs.yahoo.com
