@@ -12411,3 +12411,7 @@ api-yts.cricket.yahoo.com
 https://api-yts.cricket.yahoo.com
 http://e2.ycpi.vip.dca.yahoo.com
 https://pbs.yahoo.com
+e1.ycpi.hkb.yahoo.com
+id.she.yahoo.com
+https://e1.ycpi.hkb.yahoo.com
+https://id.she.yahoo.com
