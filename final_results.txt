@@ -12415,3 +12415,15 @@ e1.ycpi.hkb.yahoo.com
 id.she.yahoo.com
 https://e1.ycpi.hkb.yahoo.com
 https://id.she.yahoo.com
+tw.video.search.yahoo.com
+http://23.ras.yahoo.com
+http://abumedia.yql.yahoo.com
+http://address.yahoo.com
+http://advertising.yahoo.com
+http://analytics.help.yahoo.com
+http://antispam.yahoo.com
+http://api-yts.cricket.yahoo.com
+http://dmros.ysm.yahoo.com
+http://finance.query.yahoo.com
+http://frontier.yahoo.com
+https://tw.video.search.yahoo.com
