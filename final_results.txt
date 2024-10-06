@@ -12427,3 +12427,6 @@ http://dmros.ysm.yahoo.com
 http://finance.query.yahoo.com
 http://frontier.yahoo.com
 https://tw.video.search.yahoo.com
+hk.help.yahoo.com
+https://hk.help.yahoo.com
+http://promo.yahoo.com
