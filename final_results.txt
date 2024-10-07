@@ -12430,3 +12430,8 @@ https://tw.video.search.yahoo.com
 hk.help.yahoo.com
 https://hk.help.yahoo.com
 http://promo.yahoo.com
+se.yhs4.search.yahoo.com
+us.f309.mail.yahoo.com
+api2.my.yahoo.com
+http://malaysia.yahoo.com
+https://se.yhs4.search.yahoo.com
