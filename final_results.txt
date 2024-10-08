@@ -12435,3 +12435,5 @@ us.f309.mail.yahoo.com
 api2.my.yahoo.com
 http://malaysia.yahoo.com
 https://se.yhs4.search.yahoo.com
+www.ca.groups.yahoo.com
+http://mash.yahoo.com
