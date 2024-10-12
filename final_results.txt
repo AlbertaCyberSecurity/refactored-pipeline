@@ -12438,3 +12438,6 @@ https://se.yhs4.search.yahoo.com
 www.ca.groups.yahoo.com
 http://mash.yahoo.com
 http://m.search.yahoo.com
+t1.time.bf1.yahoo.com
+http://se.yhs4.search.yahoo.com
+http://test-tournament.fantasysports.yahoo.com
