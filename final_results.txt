@@ -12443,3 +12443,5 @@ http://se.yhs4.search.yahoo.com
 http://test-tournament.fantasysports.yahoo.com
 ups.analytics.yahoo.com
 http://tv.widgets.yahoo.com
+kr.open.gugi.yahoo.com
+https://kr.open.gugi.yahoo.com
