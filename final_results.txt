@@ -12445,3 +12445,4 @@ ups.analytics.yahoo.com
 http://tv.widgets.yahoo.com
 kr.open.gugi.yahoo.com
 https://kr.open.gugi.yahoo.com
+https://ups.analytics.yahoo.com
