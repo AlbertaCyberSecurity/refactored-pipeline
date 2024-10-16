@@ -12446,3 +12446,8 @@ http://tv.widgets.yahoo.com
 kr.open.gugi.yahoo.com
 https://kr.open.gugi.yahoo.com
 https://ups.analytics.yahoo.com
+stage.id.creators.yahoo.com
+us.update.toolbar.yahoo.com
+prod.id.creators.yahoo.com
+https://prod.id.creators.yahoo.com
+https://stage.id.creators.yahoo.com
