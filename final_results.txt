@@ -12451,3 +12451,4 @@ us.update.toolbar.yahoo.com
 prod.id.creators.yahoo.com
 https://prod.id.creators.yahoo.com
 https://stage.id.creators.yahoo.com
+http://media-router-flurry74.prod.media.vip.bf1.yahoo.com
