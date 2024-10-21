@@ -12473,3 +12473,7 @@ https://www.za.yahoo.com
 ca.photos.yahoo.com
 https://src5.yahoo.com
 http://www.be.yahoo.com
+ncp-gw-finance.media.yahoo.com
+ncp-gw-frontpage.media.yahoo.com
+https://ncp-gw-frontpage.media.yahoo.com
+https://ncp-gw-finance.media.yahoo.com
