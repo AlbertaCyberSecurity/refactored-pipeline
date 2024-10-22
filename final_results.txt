@@ -12477,3 +12477,11 @@ ncp-gw-finance.media.yahoo.com
 ncp-gw-frontpage.media.yahoo.com
 https://ncp-gw-frontpage.media.yahoo.com
 https://ncp-gw-finance.media.yahoo.com
+contacts.att.mobile.yahoo.com
+e2.ycpi.sgb.yahoo.com
+clog.voice.yahoo.com
+vmwebfe.voice.yahoo.com
+https://contacts.att.mobile.yahoo.com
+https://e2.ycpi.sgb.yahoo.com
+http://e1.ycpi.hkb.yahoo.com
+http://tw.video.search.yahoo.com
