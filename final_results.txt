@@ -12488,3 +12488,6 @@ http://tw.video.search.yahoo.com
 wwwl.yahoo.com
 nz-stage.help.yahoo.com
 https://nz-stage.help.yahoo.com
+search.asia.yahoo.com
+no.images.search.yahoo.com
+https://no.images.search.yahoo.com
