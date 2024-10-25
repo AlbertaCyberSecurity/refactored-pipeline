@@ -12491,3 +12491,7 @@ https://nz-stage.help.yahoo.com
 search.asia.yahoo.com
 no.images.search.yahoo.com
 https://no.images.search.yahoo.com
+mail.cn.yahoo.com
+http://id.she.yahoo.com
+http://tw.games.yahoo.com
+http://www.nz.yahoo.com
