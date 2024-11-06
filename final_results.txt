@@ -13423,3 +13423,7 @@ rev115.sonora.bf1.yahoo.com
 rsw109-5-prd.ne1.yahoo.com
 gi-3-36.bas3-1-yst.ac4.yahoo.com
 xe-1-3-2.clr1-a-sat.gq1.yahoo.com
+search.music.yahoo.com
+staging.www.yahoo.com
+http://hk.help.yahoo.com
+https://staging.www.yahoo.com
