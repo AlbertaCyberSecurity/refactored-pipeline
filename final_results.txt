@@ -13823,3 +13823,4 @@ ge-0-1-0.pat1.krx.yahoo.com
 qa5.ca.rogers.yahoo.com
 https://3p-udc.yahoo.com
 https://nz.search.yahoo.com
+http://tamil.yahoo.com
