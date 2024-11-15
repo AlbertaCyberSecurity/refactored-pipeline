@@ -14033,3 +14033,8 @@ https://opus-dev.analytics.yahoo.com
 https://uk.my.yahoo.com
 https://us.bookmarks.yahoo.com
 http://www.en-maktoob.yahoo.com
+checkout.finance.yahoo.com
+winmetro.imap.mail.yahoo.com
+winmo.smtp.mail.yahoo.com
+export.imap.mail.yahoo.com
+https://checkout.finance.yahoo.com
