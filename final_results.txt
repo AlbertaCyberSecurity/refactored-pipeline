@@ -14038,3 +14038,14 @@ winmetro.imap.mail.yahoo.com
 winmo.smtp.mail.yahoo.com
 export.imap.mail.yahoo.com
 https://checkout.finance.yahoo.com
+fe21.news.sp1.yahoo.com
+es.screen.yahoo.com
+enlight.entertainment.yahoo.com
+f1617.mail.yahoo.com
+farechase.yahoo.com
+f2.pg.photos.yahoo.com
+en-maktoob.screen.yahoo.com
+https://en-maktoob.screen.yahoo.com
+https://es.screen.yahoo.com
+https://farechase.yahoo.com
+http://ncp-gw-finance.media.yahoo.com
