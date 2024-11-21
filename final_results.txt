@@ -14546,3 +14546,4 @@ https://no.yahoo.com
 https://tw.blog.yahoo.com
 https://yo.corp.yahoo.com
 http://opus-dev.analytics.yahoo.com
+http://tech.yahoo.com
