@@ -16516,3 +16516,5 @@ https://e14.ycpi.twb.yahoo.com
 http://greetings.yahoo.com
 https://hu.yahoo.com
 https://ncp-gw-sports.media.yahoo.com
+http://es.screen.yahoo.com
+http://no.images.search.yahoo.com
