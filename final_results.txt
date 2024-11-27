@@ -16518,3 +16518,5 @@ https://hu.yahoo.com
 https://ncp-gw-sports.media.yahoo.com
 http://es.screen.yahoo.com
 http://no.images.search.yahoo.com
+us.mail.yahoo.com
+https://us.mail.yahoo.com
