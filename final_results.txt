@@ -16520,3 +16520,10 @@ http://es.screen.yahoo.com
 http://no.images.search.yahoo.com
 us.mail.yahoo.com
 https://us.mail.yahoo.com
+finanzen.de.yahoo.com
+brand.yahoo.com
+e.email.cc.yahoo.com
+https://e.email.cc.yahoo.com
+https://finanzen.de.yahoo.com
+http://finance-external-services-api.finance.yahoo.com
+http://us.mail.yahoo.com
