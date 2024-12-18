@@ -23882,3 +23882,10 @@ https://www.tw.yahoo.com
 https://www.sg.yahoo.com
 https://www.it.yahoo.com
 https://www.ro.yahoo.com
+prod.creators.yahoo.com
+fam-geo-atsv2.prod.media.yahoo.com
+us.mc501.mail.yahoo.com
+http://es-us.seguridad.yahoo.com
+http://es.seguro.yahoo.com
+http://farechase.yahoo.com
+http://prod.creators.yahoo.com
