@@ -23889,3 +23889,10 @@ http://es-us.seguridad.yahoo.com
 http://es.seguro.yahoo.com
 http://farechase.yahoo.com
 http://prod.creators.yahoo.com
+int-m.search.yahoo.com
+fr.f275.mail.yahoo.com
+fi.yahoo.com
+http://au.horoscopes.yahoo.com
+https://fi.yahoo.com
+http://nrb.ybp.yahoo.com
+http://www.in.yahoo.com
