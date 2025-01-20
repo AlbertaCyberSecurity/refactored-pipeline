@@ -33848,3 +33848,4 @@ et34.bas1-1-edg.amb.yahoo.com
 auth1.ops.ams.yahoo.com
 et50.rsw2-1-edg.amb.yahoo.com
 5-vl-120.amb.yahoo.com
+us.f802.mail.yahoo.com
