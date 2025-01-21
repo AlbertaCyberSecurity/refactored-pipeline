@@ -33849,3 +33849,6 @@ auth1.ops.ams.yahoo.com
 et50.rsw2-1-edg.amb.yahoo.com
 5-vl-120.amb.yahoo.com
 us.f802.mail.yahoo.com
+www.yahoo.comwww.yahoo.com
+hk.yahoo.comhk.yahoo.com
+http://vn.antoan.yahoo.com
