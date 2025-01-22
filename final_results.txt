@@ -33852,3 +33852,5 @@ us.f802.mail.yahoo.com
 www.yahoo.comwww.yahoo.com
 hk.yahoo.comhk.yahoo.com
 http://vn.antoan.yahoo.com
+apple.smtp.mail.yahoo.com
+http://postmaster.yahoo.com
