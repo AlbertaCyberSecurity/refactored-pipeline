@@ -33855,3 +33855,4 @@ http://vn.antoan.yahoo.com
 apple.smtp.mail.yahoo.com
 http://postmaster.yahoo.com
 http://stores.yahoo.com
+http://fr.eurosport.yahoo.com
