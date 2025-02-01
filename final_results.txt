@@ -33861,3 +33861,6 @@ http://edit.client.yahoo.com
 http://experiential.yahoo.com
 http://fattidellanno2013.it.yahoo.com
 http://features.mail.yahoo.com
+e2-bmr.ycpi.vip.jpa.yahoo.com
+https://e2-bmr.ycpi.vip.jpa.yahoo.com
+http://isp.yahoo.com
