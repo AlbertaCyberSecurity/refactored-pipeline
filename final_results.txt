@@ -33864,3 +33864,4 @@ http://features.mail.yahoo.com
 e2-bmr.ycpi.vip.jpa.yahoo.com
 https://e2-bmr.ycpi.vip.jpa.yahoo.com
 http://isp.yahoo.com
+in.mc943.mail.yahoo.com
