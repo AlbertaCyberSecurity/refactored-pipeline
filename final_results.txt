@@ -33865,3 +33865,4 @@ e2-bmr.ycpi.vip.jpa.yahoo.com
 https://e2-bmr.ycpi.vip.jpa.yahoo.com
 http://isp.yahoo.com
 in.mc943.mail.yahoo.com
+http://pub-api-android-ro.fantasysports.yahoo.com
