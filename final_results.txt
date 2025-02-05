@@ -33866,3 +33866,6 @@ https://e2-bmr.ycpi.vip.jpa.yahoo.com
 http://isp.yahoo.com
 in.mc943.mail.yahoo.com
 http://pub-api-android-ro.fantasysports.yahoo.com
+fe1.shine.lifestyles.fy11.b.yahoo.com
+targeting-dmp.analytics.yahoo.com
+http://targeting-dmp.analytics.yahoo.com
