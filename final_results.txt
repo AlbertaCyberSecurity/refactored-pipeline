@@ -33870,3 +33870,6 @@ fe1.shine.lifestyles.fy11.b.yahoo.com
 targeting-dmp.analytics.yahoo.com
 http://targeting-dmp.analytics.yahoo.com
 https://targeting-dmp.analytics.yahoo.com
+http://feedback.mobile.yahoo.com
+http://fi.yahoo.com
+http://transparency.yahoo.com
