@@ -33874,3 +33874,13 @@ http://feedback.mobile.yahoo.com
 http://fi.yahoo.com
 http://transparency.yahoo.com
 http://forums.yahoo.com
+pn1.bc.yahoo.com
+www.video.yahoo.com
+c.search.yahoo.com
+in.jagran.yahoo.com
+us.mc460.mail.yahoo.com
+finance.cn.yahoo.com
+https://c.search.yahoo.com
+http://finance.search.yahoo.com
+https://in.jagran.yahoo.com
+https://www.video.yahoo.com
