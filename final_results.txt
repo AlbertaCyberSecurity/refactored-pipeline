@@ -33889,3 +33889,14 @@ garde-qa01.azurite.bf2.yahoo.com
 http://e2-bmr.ycpi.vip.jpa.yahoo.com
 http://in.jagran.yahoo.com
 http://pub-api-rw.fantasysports.yahoo.com
+eu-web.ras.yahoo.com
+eu.geo.yahoo.com
+es.voice.yahoo.com
+events.ostk.prod.bf1.cn.yahoo.com
+image.europe.yahoo.com
+es-us.screen.yahoo.com
+ps.analytics.yahoo.com
+et-12-3-0-d101.msr2.ne1.yahoo.com
+http://c.search.yahoo.com
+https://es-us.screen.yahoo.com
+https://eu-web.ras.yahoo.com
