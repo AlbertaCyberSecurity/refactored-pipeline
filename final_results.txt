@@ -33900,3 +33900,8 @@ et-12-3-0-d101.msr2.ne1.yahoo.com
 http://c.search.yahoo.com
 https://es-us.screen.yahoo.com
 https://eu-web.ras.yahoo.com
+espanol.pg.photos.yahoo.com
+et.tv.yahoo.com
+f1204.mail.yahoo.com
+es.dir.groups.yahoo.com
+http://tw.autos.search.yahoo.com
