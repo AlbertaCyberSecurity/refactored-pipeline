@@ -33914,3 +33914,4 @@ de.launch.yahoo.com
 app.news.yahoo.com
 https://app.news.yahoo.com
 http://es-us.screen.yahoo.com
+http://app.news.yahoo.com
