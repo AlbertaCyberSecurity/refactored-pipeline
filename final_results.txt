@@ -33915,3 +33915,5 @@ app.news.yahoo.com
 https://app.news.yahoo.com
 http://es-us.screen.yahoo.com
 http://app.news.yahoo.com
+co.video.search.yahoo.com
+https://co.video.search.yahoo.com
