@@ -33918,3 +33918,6 @@ http://app.news.yahoo.com
 co.video.search.yahoo.com
 https://co.video.search.yahoo.com
 http://www.tw.yahoo.com
+c.finance.a1.b.yahoo.com
+id.news.yahoo.com
+https://id.news.yahoo.com
