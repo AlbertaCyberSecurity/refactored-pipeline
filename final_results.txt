@@ -33921,3 +33921,5 @@ http://www.tw.yahoo.com
 c.finance.a1.b.yahoo.com
 id.news.yahoo.com
 https://id.news.yahoo.com
+http://id.news.yahoo.com
+http://jira.corp.yahoo.com
