@@ -33923,3 +33923,5 @@ id.news.yahoo.com
 https://id.news.yahoo.com
 http://id.news.yahoo.com
 http://jira.corp.yahoo.com
+run.pipes.yahoo.com
+https://run.pipes.yahoo.com
