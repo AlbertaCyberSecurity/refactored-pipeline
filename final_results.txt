@@ -33925,3 +33925,5 @@ http://id.news.yahoo.com
 http://jira.corp.yahoo.com
 run.pipes.yahoo.com
 https://run.pipes.yahoo.com
+br.screen.yahoo.com
+https://br.screen.yahoo.com
