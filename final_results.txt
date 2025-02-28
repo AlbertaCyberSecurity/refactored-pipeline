@@ -33927,3 +33927,7 @@ run.pipes.yahoo.com
 https://run.pipes.yahoo.com
 br.screen.yahoo.com
 https://br.screen.yahoo.com
+blog.movies.yahoo.com
+blog.messenger.yahoo.com
+https://blog.messenger.yahoo.com
+http://src1.yahoo.com
