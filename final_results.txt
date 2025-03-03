@@ -33934,3 +33934,5 @@ http://src1.yahoo.com
 rogers.overview.mail.yahoo.com
 b.beap.gemini.yahoo.com
 https://rogers.overview.mail.yahoo.com
+au.dir.groups.yahoo.com
+http://www.video.yahoo.com
