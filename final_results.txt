@@ -33936,3 +33936,6 @@ b.beap.gemini.yahoo.com
 https://rogers.overview.mail.yahoo.com
 au.dir.groups.yahoo.com
 http://www.video.yahoo.com
+ar.noticias.yahoo.com
+https://ar.noticias.yahoo.com
+http://eu-web.ras.yahoo.com
