@@ -33939,3 +33939,5 @@ http://www.video.yahoo.com
 ar.noticias.yahoo.com
 https://ar.noticias.yahoo.com
 http://eu-web.ras.yahoo.com
+http://ph.yahoo.com
+http://rogers.overview.mail.yahoo.com
