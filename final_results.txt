@@ -33948,3 +33948,7 @@ my.video.yahoo.com
 https://my.video.yahoo.com
 us.mg3.mail.yahoo.com
 https://us.mg3.mail.yahoo.com
+de.local.yahoo.com
+1.local.search.yahoo.com
+search.main.yahoo.com
+https://de.local.yahoo.com
