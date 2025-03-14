@@ -33952,3 +33952,7 @@ de.local.yahoo.com
 1.local.search.yahoo.com
 search.main.yahoo.com
 https://de.local.yahoo.com
+1.vl-120.tor272-331-pda.ne1.yahoo.com
+e16.ycpi.hkb.yahoo.com
+https://e16.ycpi.hkb.yahoo.com
+http://us.mg3.mail.yahoo.com
