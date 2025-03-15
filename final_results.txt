@@ -33956,3 +33956,5 @@ https://de.local.yahoo.com
 e16.ycpi.hkb.yahoo.com
 https://e16.ycpi.hkb.yahoo.com
 http://us.mg3.mail.yahoo.com
+smtp.att.mail.fy4.b.yahoo.com
+http://de.local.yahoo.com
