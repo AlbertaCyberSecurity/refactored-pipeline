@@ -33959,3 +33959,5 @@ http://us.mg3.mail.yahoo.com
 smtp.att.mail.fy4.b.yahoo.com
 http://de.local.yahoo.com
 r.sp.m.yahoo.com
+addurl.search.yahoo.com
+atlas--production-gq1-5d998cd6bc-rb4j9.gq1.yahoo.com
