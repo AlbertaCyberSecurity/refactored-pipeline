@@ -33961,3 +33961,6 @@ http://de.local.yahoo.com
 r.sp.m.yahoo.com
 addurl.search.yahoo.com
 atlas--production-gq1-5d998cd6bc-rb4j9.gq1.yahoo.com
+yxk.cn.yahoo.com
+http://blog.messenger.yahoo.com
+http://co.video.search.yahoo.com
