@@ -33968,3 +33968,5 @@ es.webmessenger.yahoo.com
 http://e16.ycpi.hkb.yahoo.com
 https://es.webmessenger.yahoo.com
 http://my.video.yahoo.com
+wyql-ro.sports.yahoo.com
+https://wyql-ro.sports.yahoo.com
