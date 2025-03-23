@@ -33973,3 +33973,6 @@ https://wyql-ro.sports.yahoo.com
 wii.yahoo.com
 http://partners.yahoo.com
 http://payment.yahoo.com
+http://pclick.europe.yahoo.com
+http://poweredby.yahoo.com
+http://wyql-ro.sports.yahoo.com
