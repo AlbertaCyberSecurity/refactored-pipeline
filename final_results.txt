@@ -33976,3 +33976,14 @@ http://payment.yahoo.com
 http://pclick.europe.yahoo.com
 http://poweredby.yahoo.com
 http://wyql-ro.sports.yahoo.com
+de.bookmarks.yahoo.com
+cn.reg.auctions.yahoo.com
+es.sports.yahoo.com
+vibe-social-notification-yql.media.yahoo.com
+us.f567.mail.yahoo.com
+aol.search.yahoo.com
+https://aol.search.yahoo.com
+https://de.bookmarks.yahoo.com
+https://es.sports.yahoo.com
+http://partnerinsights.yahoo.com
+https://vibe-social-notification-yql.media.yahoo.com
