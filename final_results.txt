@@ -34018,3 +34018,6 @@ tor366-250-pdb.ne1.yahoo.com
 tor65-135-pda.ne1.yahoo.com
 buzzlog.buzz.yahoo.com
 https://tw.m.yahoo.com
+travel.news.yahoo.com
+hotzone.fy4.b.yahoo.com
+http://run.pipes.yahoo.com
