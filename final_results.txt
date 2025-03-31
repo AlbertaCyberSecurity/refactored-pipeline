@@ -34021,3 +34021,4 @@ https://tw.m.yahoo.com
 travel.news.yahoo.com
 hotzone.fy4.b.yahoo.com
 http://run.pipes.yahoo.com
+http://privacy.yahoo.com
