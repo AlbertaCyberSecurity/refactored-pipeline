@@ -34025,3 +34025,4 @@ http://privacy.yahoo.com
 e.shopping.comms.yahoo.com
 https://e.shopping.comms.yahoo.com
 subscriptions-profile-service.media.yahoo.com
+https://subscriptions-profile-service.media.yahoo.com
