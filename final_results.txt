@@ -34026,3 +34026,8 @@ e.shopping.comms.yahoo.com
 https://e.shopping.comms.yahoo.com
 subscriptions-profile-service.media.yahoo.com
 https://subscriptions-profile-service.media.yahoo.com
+vn-msg.sg.g1.b.yahoo.com
+vn.sea.msg.yahoo.com
+presence.msg.yahoo.com
+search.launch.yahoo.com
+http://br.screen.yahoo.com
