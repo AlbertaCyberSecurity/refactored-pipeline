@@ -34031,3 +34031,4 @@ vn.sea.msg.yahoo.com
 presence.msg.yahoo.com
 search.launch.yahoo.com
 http://br.screen.yahoo.com
+http://subscriptions-profile-service.media.yahoo.com
