@@ -34033,3 +34033,4 @@ search.launch.yahoo.com
 http://br.screen.yahoo.com
 http://subscriptions-profile-service.media.yahoo.com
 aa.mc1108.mail.yahoo.com
+es.search.games.yahoo.com
