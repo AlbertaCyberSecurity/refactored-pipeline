@@ -34038,3 +34038,5 @@ ph.screen.yahoo.com
 http://de.bookmarks.yahoo.com
 http://vibe-social-notification-yql.media.yahoo.com
 us.f520.mail.yahoo.com
+pub-api.fantasysports.yahoo.com
+http://pub-api.fantasysports.yahoo.com
