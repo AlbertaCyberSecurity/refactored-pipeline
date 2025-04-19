@@ -34041,3 +34041,4 @@ us.f520.mail.yahoo.com
 pub-api.fantasysports.yahoo.com
 http://pub-api.fantasysports.yahoo.com
 https://pub-api.fantasysports.yahoo.com
+atlas--production-gq1-8654446fdb-9kcpd.gq1.yahoo.com
