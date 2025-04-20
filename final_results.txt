@@ -34042,3 +34042,10 @@ pub-api.fantasysports.yahoo.com
 http://pub-api.fantasysports.yahoo.com
 https://pub-api.fantasysports.yahoo.com
 atlas--production-gq1-8654446fdb-9kcpd.gq1.yahoo.com
+view.email.cc.yahoo.com
+us.f613.mail.yahoo.com
+taobao.ent.cn.yahoo.com
+taobao.lady.cn.yahoo.com
+http://e.shopping.comms.yahoo.com
+http://es.webmessenger.yahoo.com
+https://view.email.cc.yahoo.com
