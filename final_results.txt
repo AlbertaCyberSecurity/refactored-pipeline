@@ -34049,3 +34049,5 @@ taobao.lady.cn.yahoo.com
 http://e.shopping.comms.yahoo.com
 http://es.webmessenger.yahoo.com
 https://view.email.cc.yahoo.com
+web161203.mail.bf1.yahoo.com
+http://opus.analytics.yahoo.com
