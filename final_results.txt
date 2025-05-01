@@ -34051,3 +34051,7 @@ http://es.webmessenger.yahoo.com
 https://view.email.cc.yahoo.com
 web161203.mail.bf1.yahoo.com
 http://opus.analytics.yahoo.com
+mtaproxy1.free.mail.vip.bf1.yahoo.com
+ecpcloud.gy1.b.yahoo.com
+mtaproxy2.free.mail.vip.bf1.yahoo.com
+https://ecpcloud.gy1.b.yahoo.com
