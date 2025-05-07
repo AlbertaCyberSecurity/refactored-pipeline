@@ -34064,3 +34064,7 @@ mobile-horizontal-yql-mall-ecyqlproductionmall-prod.tp2-1.paas.yahoo.com
 staging-search-ecyql-search-yql-mobile-horizontal.gq1-1.manhattan.yahoo.com
 singingswinging.corp.sg3.yahoo.com
 mobile-horizontal-yql-search-ecyqlprodsearchsg3-prod.sg3-1.paas.yahoo.com
+app.ssp.yahoo.com
+https://app.ssp.yahoo.com
+http://pbd.yahoo.com
+http://view.email.cc.yahoo.com
