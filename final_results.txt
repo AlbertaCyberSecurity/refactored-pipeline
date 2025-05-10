@@ -34068,3 +34068,4 @@ app.ssp.yahoo.com
 https://app.ssp.yahoo.com
 http://pbd.yahoo.com
 http://view.email.cc.yahoo.com
+http://internal-data.search.yahoo.com
