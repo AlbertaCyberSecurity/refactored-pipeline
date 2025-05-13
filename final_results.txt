@@ -34071,3 +34071,5 @@ http://view.email.cc.yahoo.com
 http://internal-data.search.yahoo.com
 currently.att.yahoo.com
 https://currently.att.yahoo.com
+us.mc586.mail.yahoo.com
+http://pclick.internal.yahoo.com
