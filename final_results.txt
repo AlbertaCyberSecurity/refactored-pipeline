@@ -34073,3 +34073,6 @@ currently.att.yahoo.com
 https://currently.att.yahoo.com
 us.mc586.mail.yahoo.com
 http://pclick.internal.yahoo.com
+graphite.sports.yahoo.com
+https://graphite.sports.yahoo.com
+http://pe.yahoo.com
