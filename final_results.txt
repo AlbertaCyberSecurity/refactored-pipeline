@@ -34077,3 +34077,5 @@ graphite.sports.yahoo.com
 https://graphite.sports.yahoo.com
 http://pe.yahoo.com
 sonic311-10.consmr.mail.ne1.yahoo.com
+xn--000finance-yv14b.yahoo.com
+ie.arch.yahoo.com
