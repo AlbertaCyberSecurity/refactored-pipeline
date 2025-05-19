@@ -34079,3 +34079,8 @@ http://pe.yahoo.com
 sonic311-10.consmr.mail.ne1.yahoo.com
 xn--000finance-yv14b.yahoo.com
 ie.arch.yahoo.com
+hk.music.yahoo.com
+developernetwork.store.yahoo.com
+fr.video.search.yahoo.com
+https://fr.video.search.yahoo.com
+https://hk.music.yahoo.com
