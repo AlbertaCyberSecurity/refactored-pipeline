@@ -34084,3 +34084,5 @@ developernetwork.store.yahoo.com
 fr.video.search.yahoo.com
 https://fr.video.search.yahoo.com
 https://hk.music.yahoo.com
+developer.searchmarketing.yahoo.com
+https://developer.searchmarketing.yahoo.com
