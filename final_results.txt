@@ -34087,3 +34087,10 @@ https://hk.music.yahoo.com
 developer.searchmarketing.yahoo.com
 https://developer.searchmarketing.yahoo.com
 jpuifr.yahoo.com
+f331.mail.yahoo.com
+ecpcloud2.gy1.b.yahoo.com
+de.stars.yahoo.com
+de.omg.yahoo.com
+https://de.stars.yahoo.com
+https://de.omg.yahoo.com
+https://ecpcloud2.gy1.b.yahoo.com
