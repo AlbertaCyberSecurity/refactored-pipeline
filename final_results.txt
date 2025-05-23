@@ -34094,3 +34094,6 @@ de.omg.yahoo.com
 https://de.stars.yahoo.com
 https://de.omg.yahoo.com
 https://ecpcloud2.gy1.b.yahoo.com
+http://graphite.sports.yahoo.com
+http://hk.music.yahoo.com
+http://twpay.buy.yahoo.com
