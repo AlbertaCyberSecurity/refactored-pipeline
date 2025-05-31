@@ -34102,3 +34102,8 @@ gq1.yahoo.com
 sitemap.cn.yahoo.com
 chinese.news.yahoo.com
 beta.bookmarks.yahoo.com
+12.ras.yahoo.com
+beta.local.yahoo.com
+beta.messenger.yahoo.com
+https://12.ras.yahoo.com
+https://beta.messenger.yahoo.com
