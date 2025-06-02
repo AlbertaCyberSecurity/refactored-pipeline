@@ -34108,3 +34108,4 @@ beta.messenger.yahoo.com
 https://12.ras.yahoo.com
 https://beta.messenger.yahoo.com
 bas-2-con.gq1.yahoo.com
+as-pg.ras.yahoo.com
