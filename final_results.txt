@@ -34109,3 +34109,12 @@ https://12.ras.yahoo.com
 https://beta.messenger.yahoo.com
 bas-2-con.gq1.yahoo.com
 as-pg.ras.yahoo.com
+ap-web.ras.yahoo.com
+e.newsletters.yahoo.com
+reference.yahoo.com
+opensource.yahoo.com
+asia.dailynews.yahoo.com
+https://ap-web.ras.yahoo.com
+https://e.newsletters.yahoo.com
+https://opensource.yahoo.com
+https://reference.yahoo.com
