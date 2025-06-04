@@ -34118,3 +34118,5 @@ https://ap-web.ras.yahoo.com
 https://e.newsletters.yahoo.com
 https://opensource.yahoo.com
 https://reference.yahoo.com
+sites.us-london-2.console.aws.amazon.comvxxor3rwhryelfcihk13apis.maill.yahoo.com
+http://opensource.yahoo.com
