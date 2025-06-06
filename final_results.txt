@@ -34120,3 +34120,7 @@ https://opensource.yahoo.com
 https://reference.yahoo.com
 sites.us-london-2.console.aws.amazon.comvxxor3rwhryelfcihk13apis.maill.yahoo.com
 http://opensource.yahoo.com
+de.style.yahoo.com
+envivo.att.yahoo.com
+https://de.style.yahoo.com
+https://envivo.att.yahoo.com
