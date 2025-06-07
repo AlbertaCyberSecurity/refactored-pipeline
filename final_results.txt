@@ -34124,3 +34124,5 @@ de.style.yahoo.com
 envivo.att.yahoo.com
 https://de.style.yahoo.com
 https://envivo.att.yahoo.com
+p7.pf.scd.yahoo.com
+http://pbs.yahoo.com
