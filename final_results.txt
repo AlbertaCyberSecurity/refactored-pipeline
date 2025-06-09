@@ -34133,3 +34133,5 @@ fe1.bff.search.vip.sp1.yahoo.com
 https://invites.yahoo.com
 https://sg.help.yahoo.com
 https://us-mg61.mail.yahoo.com
+visualize.yahoo.com
+https://visualize.yahoo.com
