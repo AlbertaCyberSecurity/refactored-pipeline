@@ -34137,3 +34137,5 @@ visualize.yahoo.com
 https://visualize.yahoo.com
 es-us.noticias.yahoo.com
 https://es-us.noticias.yahoo.com
+manage.members.yahoo.com
+https://manage.members.yahoo.com
