@@ -34159,3 +34159,5 @@ c-production-bf1-64b6879b5f-vg6c4.bf1.yahoo.com
 1.search.yahoo.com
 1.et1-1.egr2-2-pdc.ne1.yahoo.com
 http://manage.members.yahoo.com
+1.ne1-dev2uadclus.data.ne1.yahoo.com
+http://invites.yahoo.com
