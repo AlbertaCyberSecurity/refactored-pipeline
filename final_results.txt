@@ -34180,3 +34180,6 @@ https://my.help.yahoo.com
 https://prod-helpws.help.yahoo.com
 https://th.help.yahoo.com
 http://prod-helpws.help.yahoo.com
+1.spn1-2-pdc.ne1.yahoo.com
+asia.yahoo.com
+https://asia.yahoo.com
