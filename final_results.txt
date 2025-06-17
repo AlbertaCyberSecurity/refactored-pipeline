@@ -34183,3 +34183,5 @@ http://prod-helpws.help.yahoo.com
 1.spn1-2-pdc.ne1.yahoo.com
 asia.yahoo.com
 https://asia.yahoo.com
+http://my.help.yahoo.com
+http://us-mg61.mail.yahoo.com
