@@ -34200,3 +34200,7 @@ https://connectid.yahoo.com
 https://regional.yahoo.com
 http://visualize.yahoo.com
 https://ycpi.fantasysports.yahoo.com
+10.ras.yahoo.com
+animalvideos.yahoo.com
+https://10.ras.yahoo.com
+http://regional.yahoo.com
