@@ -34204,3 +34204,4 @@ https://ycpi.fantasysports.yahoo.com
 animalvideos.yahoo.com
 https://10.ras.yahoo.com
 http://regional.yahoo.com
+http://ycpi.fantasysports.yahoo.com
