@@ -34207,3 +34207,5 @@ http://regional.yahoo.com
 http://ycpi.fantasysports.yahoo.com
 us.f111.mail.yahoo.com
 us.mc504.mail.yahoo.com
+graphql.ec.yahoo.com
+https://graphql.ec.yahoo.com
