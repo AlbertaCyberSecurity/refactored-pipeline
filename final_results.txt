@@ -34209,3 +34209,7 @@ us.f111.mail.yahoo.com
 us.mc504.mail.yahoo.com
 graphql.ec.yahoo.com
 https://graphql.ec.yahoo.com
+http://18.ras.yahoo.com
+http://beta.messenger.yahoo.com
+http://connectid.yahoo.com
+http://currently.att.yahoo.com
