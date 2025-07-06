@@ -34213,3 +34213,9 @@ http://18.ras.yahoo.com
 http://beta.messenger.yahoo.com
 http://connectid.yahoo.com
 http://currently.att.yahoo.com
+http://aol.search.yahoo.com
+http://ca.help.yahoo.com
+http://envivo.att.yahoo.com
+http://ecpcloud2.gy1.b.yahoo.com
+http://es-us.noticias.yahoo.com
+http://graphql.ec.yahoo.com
