@@ -34219,3 +34219,5 @@ http://envivo.att.yahoo.com
 http://ecpcloud2.gy1.b.yahoo.com
 http://es-us.noticias.yahoo.com
 http://graphql.ec.yahoo.com
+http://25.ras.yahoo.com
+http://e.newsletters.yahoo.com
