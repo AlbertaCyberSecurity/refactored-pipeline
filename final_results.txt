@@ -34221,3 +34221,6 @@ http://es-us.noticias.yahoo.com
 http://graphql.ec.yahoo.com
 http://25.ras.yahoo.com
 http://e.newsletters.yahoo.com
+http://asia.yahoo.com
+http://de.style.yahoo.com
+http://es-us.vida-estilo.yahoo.com
