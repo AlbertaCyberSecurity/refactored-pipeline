@@ -34229,3 +34229,6 @@ http://de.omg.yahoo.com
 http://en-global.help.yahoo.com
 http://add.my.yahoo.com
 http://fr.video.search.yahoo.com
+http://ap-web.ras.yahoo.com
+http://ar.noticias.yahoo.com
+http://developer.searchmarketing.yahoo.com
