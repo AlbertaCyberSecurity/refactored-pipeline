@@ -34232,3 +34232,5 @@ http://fr.video.search.yahoo.com
 http://ap-web.ras.yahoo.com
 http://ar.noticias.yahoo.com
 http://developer.searchmarketing.yahoo.com
+prod-m-node-1221.ssp.yahoo.com
+http://community.yahoo.com
