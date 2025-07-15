@@ -34234,3 +34234,6 @@ http://ar.noticias.yahoo.com
 http://developer.searchmarketing.yahoo.com
 prod-m-node-1221.ssp.yahoo.com
 http://community.yahoo.com
+http://partnerads.ysm.yahoo.com
+http://ph.news.yahoo.com
+http://point.yahoo.com
