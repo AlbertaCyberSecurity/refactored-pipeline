@@ -34237,3 +34237,5 @@ http://community.yahoo.com
 http://partnerads.ysm.yahoo.com
 http://ph.news.yahoo.com
 http://point.yahoo.com
+fe.shortcuts.search.yahoo.com
+nat1.corp.gq1.yahoo.com
