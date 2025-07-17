@@ -34239,3 +34239,5 @@ http://ph.news.yahoo.com
 http://point.yahoo.com
 fe.shortcuts.search.yahoo.com
 nat1.corp.gq1.yahoo.com
+busserver.bus.yahoo.com
+my.movies.yahoo.com
