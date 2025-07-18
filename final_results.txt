@@ -34241,3 +34241,8 @@ fe.shortcuts.search.yahoo.com
 nat1.corp.gq1.yahoo.com
 busserver.bus.yahoo.com
 my.movies.yahoo.com
+my.screen.yahoo.com
+mysearch.yahoo.com
+https://busserver.bus.yahoo.com
+http://de.stars.yahoo.com
+http://en-maktoob.help.yahoo.com
