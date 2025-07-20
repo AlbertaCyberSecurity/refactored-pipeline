@@ -34246,3 +34246,7 @@ mysearch.yahoo.com
 https://busserver.bus.yahoo.com
 http://de.stars.yahoo.com
 http://en-maktoob.help.yahoo.com
+xml.weather.yahoo.com
+my.omg.yahoo.com
+fr.style.yahoo.com
+https://fr.style.yahoo.com
