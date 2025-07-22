@@ -34275,3 +34275,12 @@ https://tb.pbs-staging.yahoo.com
 http://tw.m.yahoo.com
 http://tw.search.ec.yahoo.com
 https://uniopen-midas.ec.yahoo.com
+apps.digitalhomeservices.yahoo.com
+http://api.dev.games.yahoo.com
+https://dev.games.yahoo.com
+http://gallery.search.yahoo.com
+http://prod.id.creators.yahoo.com
+http://pr-bh.ybp.yahoo.com
+https://stage.community.abucommon.ap-northeast-2.ycpi.vespa.ec.yahoo.com
+https://staging.creators.yahoo.com
+http://tb.pbs-staging.yahoo.com
