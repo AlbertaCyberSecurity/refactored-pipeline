@@ -34291,3 +34291,8 @@ https://de.kino.yahoo.com
 https://feed-api.dev.yahoo.com
 http://pr.ybp.yahoo.com
 http://staging.shopping.yahoo.com
+us.mc1100.mail.yahoo.com
+canary-tw.cst.analytics.bid.yahoo.com
+canary-tw.cst.analytics.buy.yahoo.com
+mta1006.bt.mail.ir2.yahoo.com
+canary-tw.cst.analytics.mall.yahoo.com
