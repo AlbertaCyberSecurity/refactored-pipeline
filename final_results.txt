@@ -34296,3 +34296,7 @@ canary-tw.cst.analytics.bid.yahoo.com
 canary-tw.cst.analytics.buy.yahoo.com
 mta1006.bt.mail.ir2.yahoo.com
 canary-tw.cst.analytics.mall.yahoo.com
+fp74.prod.media.vip.bf1.yahoo.com
+sonic322-11.consmr.mail.ne1.yahoo.com
+weekfinance.yahoo.com
+http://th.help.yahoo.com
