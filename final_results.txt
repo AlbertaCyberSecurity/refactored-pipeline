@@ -34300,3 +34300,7 @@ fp74.prod.media.vip.bf1.yahoo.com
 sonic322-11.consmr.mail.ne1.yahoo.com
 weekfinance.yahoo.com
 http://th.help.yahoo.com
+api.search.yahoo.com
+lef10-2-pda.ne1.yahoo.com
+http://api.search.yahoo.com
+http://busserver.bus.yahoo.com
