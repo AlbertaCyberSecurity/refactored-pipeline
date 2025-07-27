@@ -34304,3 +34304,10 @@ api.search.yahoo.com
 lef10-2-pda.ne1.yahoo.com
 http://api.search.yahoo.com
 http://busserver.bus.yahoo.com
+lef31-1-pda.ne1.yahoo.com
+lef7-1-pda.ne1.yahoo.com
+lef27-1-pdc.ne1.yahoo.com
+lef19-2-pdc.ne1.yahoo.com
+lef14-2-pdc.ne1.yahoo.com
+https://api.search.yahoo.com
+http://de.kino.yahoo.com
