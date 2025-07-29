@@ -34312,3 +34312,14 @@ lef14-2-pdc.ne1.yahoo.com
 https://api.search.yahoo.com
 http://de.kino.yahoo.com
 globaldtppbjs.ybp.yahoo.com
+nz.video.search.yahoo.com
+signal-service.pbs.yahoo.com
+sonic319-29.consmr.mail.bf2.yahoo.com
+de.lifestyle.yahoo.com
+tdv2-app-fp-public-staging.fp.yahoo.com
+http://api.stage.games.yahoo.com
+https://de.lifestyle.yahoo.com
+https://nz.video.search.yahoo.com
+http://reference.yahoo.com
+https://signal-service.pbs.yahoo.com
+http://tdv2-app-fp-public-staging.fp.yahoo.com
