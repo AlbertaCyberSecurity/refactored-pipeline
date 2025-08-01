@@ -34324,3 +34324,8 @@ http://reference.yahoo.com
 https://signal-service.pbs.yahoo.com
 http://tdv2-app-fp-public-staging.fp.yahoo.com
 http://signal-service.pbs.yahoo.com
+2034.pmc.ncbi.nlm.nih.govfinance.yahoo.com
+oaein.yahoo.com
+mtaproxy123.aol.mail.ne1.yahoo.com
+labs.news.yahoo.com
+http://uniopen-midas.ec.yahoo.com
