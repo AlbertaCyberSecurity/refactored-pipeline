@@ -34329,3 +34329,6 @@ oaein.yahoo.com
 mtaproxy123.aol.mail.ne1.yahoo.com
 labs.news.yahoo.com
 http://uniopen-midas.ec.yahoo.com
+real-api.device.yahoo.com
+atlas--sbc-production-gq1-6fdc7fb59-l8ndk.gq1.yahoo.com
+http://nz.video.search.yahoo.com
