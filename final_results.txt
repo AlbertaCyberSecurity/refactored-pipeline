@@ -34332,3 +34332,5 @@ http://uniopen-midas.ec.yahoo.com
 real-api.device.yahoo.com
 atlas--sbc-production-gq1-6fdc7fb59-l8ndk.gq1.yahoo.com
 http://nz.video.search.yahoo.com
+c311-23.consmr.mail.gq1.yahoo.com
+21br.search.yahoo.com
