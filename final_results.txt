@@ -34336,3 +34336,10 @@ c311-23.consmr.mail.gq1.yahoo.com
 21br.search.yahoo.com
 it.geocities.yahoo.com
 us.f419.mail.yahoo.com
+ca.movies.yahoo.com
+next.tech.yahoo.com
+stg.feeds.yahoo.com
+in.video.search.yahoo.com
+https://in.video.search.yahoo.com
+https://next.tech.yahoo.com
+https://stg.feeds.yahoo.com
