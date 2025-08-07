@@ -34343,3 +34343,14 @@ in.video.search.yahoo.com
 https://in.video.search.yahoo.com
 https://next.tech.yahoo.com
 https://stg.feeds.yahoo.com
+actapi.corp.yahoo.com
+actservices.corp.yahoo.com
+next.health.yahoo.com
+staging-de.nachrichten.yahoo.com
+staging.local.yahoo.com
+us.bc.yahoo.com
+staging.tech.yahoo.com
+newsletters.yahoo.com
+staging.health.yahoo.com
+https://ca.movies.yahoo.com
+https://next.health.yahoo.com
