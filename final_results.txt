@@ -34354,3 +34354,9 @@ newsletters.yahoo.com
 staging.health.yahoo.com
 https://ca.movies.yahoo.com
 https://next.health.yahoo.com
+lotin.yahoo.com
+proxy-prod.messaging.gq1.yahoo.com
+proxy-prod.messaging.yahoo.com
+logvn.yahoo.com
+http://in.video.search.yahoo.com
+http://next.health.yahoo.com
