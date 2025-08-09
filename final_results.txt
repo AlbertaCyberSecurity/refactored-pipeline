@@ -34360,3 +34360,5 @@ proxy-prod.messaging.yahoo.com
 logvn.yahoo.com
 http://in.video.search.yahoo.com
 http://next.health.yahoo.com
+www.es.finance.yahoo.com
+http://ca.movies.yahoo.com
