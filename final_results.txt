@@ -34363,3 +34363,5 @@ http://next.health.yahoo.com
 www.es.finance.yahoo.com
 http://ca.movies.yahoo.com
 api.oauth.yahoo.com
+sign.yahoo.com
+https://api.oauth.yahoo.com
