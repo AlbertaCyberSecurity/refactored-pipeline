@@ -34365,3 +34365,6 @@ http://ca.movies.yahoo.com
 api.oauth.yahoo.com
 sign.yahoo.com
 https://api.oauth.yahoo.com
+us.f508.mail.yahoo.com
+uk.style.yahoo.com
+https://uk.style.yahoo.com
