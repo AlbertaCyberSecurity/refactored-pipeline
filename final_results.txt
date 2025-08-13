@@ -34368,3 +34368,7 @@ https://api.oauth.yahoo.com
 us.f508.mail.yahoo.com
 uk.style.yahoo.com
 https://uk.style.yahoo.com
+https://staging.health.yahoo.com
+https://staging-de.nachrichten.yahoo.com
+https://staging.local.yahoo.com
+http://staging.tech.yahoo.com
