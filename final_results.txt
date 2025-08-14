@@ -34372,3 +34372,5 @@ https://staging.health.yahoo.com
 https://staging-de.nachrichten.yahoo.com
 https://staging.local.yahoo.com
 http://staging.tech.yahoo.com
+https://staging.tech.yahoo.com
+http://staging-de.nachrichten.yahoo.com
