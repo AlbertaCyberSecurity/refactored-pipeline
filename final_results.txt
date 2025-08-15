@@ -34374,3 +34374,9 @@ https://staging.local.yahoo.com
 http://staging.tech.yahoo.com
 https://staging.tech.yahoo.com
 http://staging-de.nachrichten.yahoo.com
+dqc.corp.yahoo.com
+onramp.dh.yahoo.com
+evaluate.data.yahoo.com
+https://evaluate.data.yahoo.com
+https://onramp.dh.yahoo.com
+http://staging.health.yahoo.com
