@@ -34411,3 +34411,7 @@ et27-1.bas2-1-edg.ata.yahoo.com
 et20-1.bas2-1-edg.ata.yahoo.com
 http://onramp.dh.yahoo.com
 http://staging.local.yahoo.com
+mtaproxy204.free.mail.ne1.yahoo.com
+dev-subs.communications.yahoo.com
+https://dev-subs.communications.yahoo.com
+http://uk.style.yahoo.com
