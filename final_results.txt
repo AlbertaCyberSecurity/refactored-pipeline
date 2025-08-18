@@ -34415,3 +34415,6 @@ mtaproxy204.free.mail.ne1.yahoo.com
 dev-subs.communications.yahoo.com
 https://dev-subs.communications.yahoo.com
 http://uk.style.yahoo.com
+alpha.login.yahoo.com
+alpha2.login.yahoo.com
+sapi.stage.oauth2.yahoo.com
