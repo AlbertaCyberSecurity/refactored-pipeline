@@ -34421,3 +34421,14 @@ sapi.stage.oauth2.yahoo.com
 sonic310-30.consmr.mail.ne1.yahoo.com
 http://evaluate.data.yahoo.com
 http://sapi.stage.oauth2.yahoo.com
+checkout.mail.yahoo.com
+plans.yahoo.com
+qa.uk.subscriptions.yahoo.com
+mysubscriptions.mail.yahoo.com
+subscriptions.yahoo.com
+http://checkout.mail.yahoo.com
+https://mysubscriptions.mail.yahoo.com
+http://next.tech.yahoo.com
+https://plans.yahoo.com
+https://qa.uk.subscriptions.yahoo.com
+https://subscriptions.yahoo.com
