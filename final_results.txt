@@ -34433,3 +34433,6 @@ https://plans.yahoo.com
 https://qa.uk.subscriptions.yahoo.com
 https://subscriptions.yahoo.com
 https://actservices.corp.yahoo.com
+stage.api.credstore.yahoo.com
+http://mysubscriptions.mail.yahoo.com
+http://tw.profiles.yahoo.com
