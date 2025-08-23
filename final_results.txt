@@ -34436,3 +34436,8 @@ https://actservices.corp.yahoo.com
 stage.api.credstore.yahoo.com
 http://mysubscriptions.mail.yahoo.com
 http://tw.profiles.yahoo.com
+ph.f307.mail.yahoo.com
+p8.pf.scd.yahoo.com
+admin-hv3.ops.bfw.yahoo.com
+fr.voice.yahoo.com
+tw.edit.yahoo.com
