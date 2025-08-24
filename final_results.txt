@@ -34441,3 +34441,7 @@ p8.pf.scd.yahoo.com
 admin-hv3.ops.bfw.yahoo.com
 fr.voice.yahoo.com
 tw.edit.yahoo.com
+sonic311-49.consmr.mail.bf2.yahoo.com
+ch1.in.yahoo.com
+ch1.ycpi.yts.global.media.yahoo.com
+http://mysubscriptions.finance.yahoo.com
