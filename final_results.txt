@@ -34445,3 +34445,9 @@ sonic311-49.consmr.mail.bf2.yahoo.com
 ch1.in.yahoo.com
 ch1.ycpi.yts.global.media.yahoo.com
 http://mysubscriptions.finance.yahoo.com
+14.ras.yahoo.com
+https://14.ras.yahoo.com
+https://ch1.in.yahoo.com
+https://ch1.ycpi.yts.global.media.yahoo.com
+https://checkout.mail.yahoo.com
+http://de.lifestyle.yahoo.com
