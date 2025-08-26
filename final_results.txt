@@ -34451,3 +34451,9 @@ https://ch1.in.yahoo.com
 https://ch1.ycpi.yts.global.media.yahoo.com
 https://checkout.mail.yahoo.com
 http://de.lifestyle.yahoo.com
+dev.chat.search.yahoo.com
+qa.chat.yahoo.com
+qa.answers.yahoo.com
+admin-hv7.ops.zaz.yahoo.com
+qa.chat.search.yahoo.com
+http://ch1.ycpi.yts.global.media.yahoo.com
