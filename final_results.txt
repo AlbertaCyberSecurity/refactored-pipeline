@@ -34457,3 +34457,6 @@ qa.answers.yahoo.com
 admin-hv7.ops.zaz.yahoo.com
 qa.chat.search.yahoo.com
 http://ch1.ycpi.yts.global.media.yahoo.com
+blog.pipes.yahoo.com
+http://blog.pipes.yahoo.com
+http://ch1.in.yahoo.com
