@@ -34460,3 +34460,8 @@ http://ch1.ycpi.yts.global.media.yahoo.com
 blog.pipes.yahoo.com
 http://blog.pipes.yahoo.com
 http://ch1.in.yahoo.com
+img.maps.yahoo.com
+https://actapi.corp.yahoo.com
+https://blogs.health.yahoo.com
+https://blog.pipes.yahoo.com
+http://plans.yahoo.com
