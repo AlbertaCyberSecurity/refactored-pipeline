@@ -34467,3 +34467,4 @@ https://blog.pipes.yahoo.com
 http://plans.yahoo.com
 xml.maps.yahoo.com
 http://subscriptions.yahoo.com
+http://actapi.corp.yahoo.com
