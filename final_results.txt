@@ -34468,3 +34468,5 @@ http://plans.yahoo.com
 xml.maps.yahoo.com
 http://subscriptions.yahoo.com
 http://actapi.corp.yahoo.com
+sonic317-15.consmr.mail.ne1.yahoo.com
+http://qa.uk.subscriptions.yahoo.com
