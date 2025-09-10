@@ -34475,3 +34475,5 @@ http://dev-subs.communications.yahoo.com
 1.dbcloud1032scan.oracle.data.ne1.yahoo.com
 dis.yahoo.com
 1.apis.mail.yahoo.com
+server-dev.comet.yahoo.com
+https://server-dev.comet.yahoo.com
