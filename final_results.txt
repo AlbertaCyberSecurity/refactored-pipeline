@@ -34477,3 +34477,6 @@ dis.yahoo.com
 1.apis.mail.yahoo.com
 server-dev.comet.yahoo.com
 https://server-dev.comet.yahoo.com
+external-staging.graphdb.yk.yahoo.com
+external.graphdb.yk.yahoo.com
+http://external.graphdb.yk.yahoo.com
