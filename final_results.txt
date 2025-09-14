@@ -34482,3 +34482,4 @@ external.graphdb.yk.yahoo.com
 http://external.graphdb.yk.yahoo.com
 http://external-staging.graphdb.yk.yahoo.com
 zurfer.research.yahoo.com
+jimap.imap.mail.yahoo.com
