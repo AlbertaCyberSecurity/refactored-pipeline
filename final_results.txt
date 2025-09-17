@@ -34483,3 +34483,13 @@ http://external.graphdb.yk.yahoo.com
 http://external-staging.graphdb.yk.yahoo.com
 zurfer.research.yahoo.com
 jimap.imap.mail.yahoo.com
+mock-svc.member.yahoo.com
+perf.login.yahoo.com
+stage.recovery.yahoo.com
+amt.mock-svc.member.yahoo.com
+mbr.mock-svc.member.yahoo.com
+in.mc1373.mail.yahoo.com
+http://amt.mock-svc.member.yahoo.com
+http://mbr.mock-svc.member.yahoo.com
+https://perf.login.yahoo.com
+http://stage.recovery.yahoo.com
