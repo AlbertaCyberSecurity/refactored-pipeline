@@ -34525,3 +34525,7 @@ https://giochi.yahoo.com
 https://kino.yahoo.com
 https://smallbusiness.yahoo.com
 https://spiele.yahoo.com
+https://ayuda.yahoo.com
+http://deportes.yahoo.com
+http://financas.yahoo.com
+http://hilfe.yahoo.com
