@@ -34542,3 +34542,7 @@ http://nachrichten.yahoo.com
 http://noticias.yahoo.com
 http://perf.login.yahoo.com
 http://secure.webhosting.yahoo.com
+https://bid.yahoo.com
+http://rd.yahoo.com
+https://stage.recovery.yahoo.com
+http://trogiup.yahoo.com
