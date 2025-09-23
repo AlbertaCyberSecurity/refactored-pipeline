@@ -34546,3 +34546,14 @@ https://bid.yahoo.com
 http://rd.yahoo.com
 https://stage.recovery.yahoo.com
 http://trogiup.yahoo.com
+uk.biz.yahoo.com
+hk.imagesearch.yahoo.com
+sapi.oauth.yahoo.com
+uk.games.yahoo.com
+uk.cars.yahoo.com
+uk.fc.yahoo.com
+https://hk.imagesearch.yahoo.com
+https://uk.cars.yahoo.com
+https://uk.fc.yahoo.com
+http://uk.biz.yahoo.com
+http://uk.games.yahoo.com
