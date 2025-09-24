@@ -34557,3 +34557,15 @@ https://uk.cars.yahoo.com
 https://uk.fc.yahoo.com
 http://uk.biz.yahoo.com
 http://uk.games.yahoo.com
+espanol.mail.yahoo.com
+fr.wrs.yahoo.com
+no.chat.yahoo.com
+http://actservices.corp.yahoo.com
+http://aide.yahoo.com
+https://espanol.mail.yahoo.com
+https://fr.wrs.yahoo.com
+https://jeux.yahoo.com
+http://launch.yahoo.com
+https://no.chat.yahoo.com
+https://sapi.oauth.yahoo.com
+https://uk.games.yahoo.com
