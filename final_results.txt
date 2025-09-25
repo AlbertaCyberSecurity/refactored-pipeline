@@ -34569,3 +34569,6 @@ http://launch.yahoo.com
 https://no.chat.yahoo.com
 https://sapi.oauth.yahoo.com
 https://uk.games.yahoo.com
+http://e5.ycpi.hkb.yahoo.com
+http://espanol.mail.yahoo.com
+https://media.yahoo.com
