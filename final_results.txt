@@ -34577,3 +34577,6 @@ vpn1-1-ptn.corp.gq1.yahoo.com
 vpn2-1-ptn.corp.gq1.yahoo.com
 https://launch.yahoo.com
 https://uk.biz.yahoo.com
+http://ajuda.yahoo.com
+https://vpn1-1-ptn.corp.gq1.yahoo.com
+https://vpn2-1-ptn.corp.gq1.yahoo.com
