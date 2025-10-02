@@ -34587,3 +34587,6 @@ http://uk.cars.yahoo.com
 admin-hv6.ops.esz.yahoo.com
 admin-hv8.ops.esz.yahoo.com
 http://no.chat.yahoo.com
+us.f93.mail.yahoo.com
+http://knowledge.yahoo.com
+http://uk.fc.yahoo.com
