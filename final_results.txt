@@ -34602,3 +34602,7 @@ f1142.mail.yahoo.com
 http://au.images.yahoo.com
 http://media.yahoo.com
 https://ve.mail.yahoo.com
+ca-stage.help.yahoo.com
+weather-mobile.media.yql.yahoo.com
+https://au.images.yahoo.com
+https://weather-mobile.media.yql.yahoo.com
