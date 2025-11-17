@@ -34632,3 +34632,4 @@ https://sandbox.dataxonline.yahoo.com
 https://streaming.datax.yahoo.com
 https://targeting-dmp-dev.analytics.yahoo.com
 http://weather-mobile.media.yql.yahoo.com
+http://notizie.yahoo.com
