@@ -74657,3 +74657,12 @@ http://info.ec.yahoo.com
 http://o23.ycpi.bf1.yahoo.com
 http://tw.edit.finance.yahoo.com
 http://vespa.corp.yahoo.com
+http://ask.yahoo.com
+http://e1.ycpi.dnb.yahoo.com
+http://e24.ycpi.daa.yahoo.com
+http://ee.yahoo.com
+http://o25.ycpi.bf1.yahoo.com
+http://racing.fantasysports.yahoo.com
+http://tw-int-cpartner.billing.yahoo.com
+http://tw.help.cc.yahoo.com
+http://view.daily.comms.yahoo.com
