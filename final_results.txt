@@ -74666,3 +74666,13 @@ http://racing.fantasysports.yahoo.com
 http://tw-int-cpartner.billing.yahoo.com
 http://tw.help.cc.yahoo.com
 http://view.daily.comms.yahoo.com
+http://beacon.fantasysports.yahoo.com
+http://br.cade.busca.yahoo.com
+http://bskyb-carddav.address.yahoo.com
+http://chinese.yahoo.com
+http://e1.ycpi.cha.yahoo.com
+http://ec3.ycpi.bf1.yahoo.com
+http://ec8.ycpi.dca.yahoo.com
+http://mab-aws.data.yahoo.com
+http://sg.celebrity.yahoo.com
+http://tw.analytics.buy.yahoo.com
