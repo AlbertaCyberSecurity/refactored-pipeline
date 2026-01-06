@@ -74676,3 +74676,16 @@ http://ec8.ycpi.dca.yahoo.com
 http://mab-aws.data.yahoo.com
 http://sg.celebrity.yahoo.com
 http://tw.analytics.buy.yahoo.com
+http://e16.ycpi.deb.yahoo.com
+http://e25.ycpi.daa.yahoo.com
+http://e4.ycpi.frb.yahoo.com
+http://e7.ycpi.aue.yahoo.com
+http://es1.ycpi.vip.bf1.yahoo.com
+http://forums.custom.autos.yahoo.com
+http://image.cn.yahoo.com
+http://images.email.cc.yahoo.com
+http://in.feature.yahoo.com
+http://it.docs.yahoo.com
+http://mx.finanzas.yahoo.com
+http://o13.ycpi.bf1.yahoo.com
+http://sg.answers.yahoo.com
