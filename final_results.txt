@@ -84648,3 +84648,8 @@ http://e3.ycpi.ata.yahoo.com
 http://ec8.ycpi.daa.yahoo.com
 http://egroups.yahoo.com
 http://fr.games.yahoo.com
+dtm-api.analytics.yahoo.com
+http://aem-dispatcher.ec.yahoo.com
+http://br.esporteinterativo.yahoo.com
+http://c1.ycs.vip.bf1.yahoo.com
+https://dtm-api.analytics.yahoo.com
