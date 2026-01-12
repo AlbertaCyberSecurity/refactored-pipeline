@@ -84653,3 +84653,7 @@ http://aem-dispatcher.ec.yahoo.com
 http://br.esporteinterativo.yahoo.com
 http://c1.ycs.vip.bf1.yahoo.com
 https://dtm-api.analytics.yahoo.com
+http://ca.biz.yahoo.com
+http://e18.ycpi.daa.yahoo.com
+http://e21.ycpi.dca.yahoo.com
+http://hermes-admin.ec.yahoo.com
