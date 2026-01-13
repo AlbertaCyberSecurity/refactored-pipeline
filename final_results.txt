@@ -84657,3 +84657,9 @@ http://ca.biz.yahoo.com
 http://e18.ycpi.daa.yahoo.com
 http://e21.ycpi.dca.yahoo.com
 http://hermes-admin.ec.yahoo.com
+http://dev.checkout.finance.yahoo.com
+http://dev.checkout.yahoo.com
+http://dev.mysubscriptions.finance.yahoo.com
+http://e26.ycpi.cha.yahoo.com
+http://search.cn.yahoo.com
+http://tw.dir.yahoo.com
