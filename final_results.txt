@@ -84667,3 +84667,10 @@ scout.bcg.yahoo.com
 http://e11.ycpi.fra.yahoo.com
 http://screener.finance.yahoo.com
 https://y252.due.yahoo.com
+http://br.acesso.yahoo.com
+http://de.cars.yahoo.com
+https://e9.ycpi.cha.yahoo.com
+http://latam.adspecs.yahoo.com
+http://o29.ycpi.bf1.yahoo.com
+http://prism.ec.yahoo.com
+http://tw.ec.yahoo.com
