@@ -84674,3 +84674,11 @@ http://latam.adspecs.yahoo.com
 http://o29.ycpi.bf1.yahoo.com
 http://prism.ec.yahoo.com
 http://tw.ec.yahoo.com
+http://br.cinema.yahoo.com
+http://e3.ycpi.cob.yahoo.com
+http://o1.ycpi.gq1.yahoo.com
+http://o12.ycpi.gq1.yahoo.com
+http://o30.ycpi.gq1.yahoo.com
+http://p11.ycpi.gq1.yahoo.com
+http://p12.ycpi.gq1.yahoo.com
+http://p13.ycpi.gq1.yahoo.com
