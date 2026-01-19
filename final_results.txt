@@ -84684,3 +84684,5 @@ http://p12.ycpi.gq1.yahoo.com
 http://p13.ycpi.gq1.yahoo.com
 http://tw-stage-promo.ec.yahoo.com
 http://vn.360plus.yahoo.com
+http://de.360.yahoo.com
+http://e9.ycpi.cha.yahoo.com
