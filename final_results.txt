@@ -84688,3 +84688,7 @@ http://de.360.yahoo.com
 http://e9.ycpi.cha.yahoo.com
 http://e1-bmp.ycpi.bra.yahoo.com
 http://sg.biz.yahoo.com
+http://e.daily.comms.yahoo.com
+http://mx.babelfish.yahoo.com
+http://oneec.paas.ec.yahoo.com
+http://tw.club.yahoo.com
