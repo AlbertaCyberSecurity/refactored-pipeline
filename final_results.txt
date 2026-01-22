@@ -84692,3 +84692,9 @@ http://e.daily.comms.yahoo.com
 http://mx.babelfish.yahoo.com
 http://oneec.paas.ec.yahoo.com
 http://tw.club.yahoo.com
+http://images.shopping.comms.yahoo.com
+http://m.tw.pay.buy.yahoo.com
+http://p1.ycpi.vip.bf1.yahoo.com
+http://t1-ha.ycpi.esa.yahoo.com
+http://t2-bmr.ycpi.vip.dnb.yahoo.com
+http://tw.green.charity.yahoo.com
