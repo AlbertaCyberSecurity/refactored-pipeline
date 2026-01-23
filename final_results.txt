@@ -84698,3 +84698,5 @@ http://p1.ycpi.vip.bf1.yahoo.com
 http://t1-ha.ycpi.esa.yahoo.com
 http://t2-bmr.ycpi.vip.dnb.yahoo.com
 http://tw.green.charity.yahoo.com
+http://dev-ups.analytics.yahoo.com
+http://t2.ycpi.vip.dca.yahoo.com
