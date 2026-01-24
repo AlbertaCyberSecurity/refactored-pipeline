@@ -84700,3 +84700,6 @@ http://t2-bmr.ycpi.vip.dnb.yahoo.com
 http://tw.green.charity.yahoo.com
 http://dev-ups.analytics.yahoo.com
 http://t2.ycpi.vip.dca.yahoo.com
+http://e2.ycpi.bga.yahoo.com
+http://mx.deportes.yahoo.com
+http://tw.billing.yahoo.com
