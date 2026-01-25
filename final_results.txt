@@ -84703,3 +84703,8 @@ http://t2.ycpi.vip.dca.yahoo.com
 http://e2.ycpi.bga.yahoo.com
 http://mx.deportes.yahoo.com
 http://tw.billing.yahoo.com
+http://br.answers.yahoo.com
+https://e2.ycpi.bga.yahoo.com
+http://glue.yahoo.com
+http://t1-bmr.ycpi.vip.deb.yahoo.com
+http://tw.cards.yahoo.com
