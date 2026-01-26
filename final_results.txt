@@ -84708,3 +84708,5 @@ https://e2.ycpi.bga.yahoo.com
 http://glue.yahoo.com
 http://t1-bmr.ycpi.vip.deb.yahoo.com
 http://tw.cards.yahoo.com
+http://t2-bmr.ycpi.vip.deb.yahoo.com
+http://x1.ycpi.bf1.yahoo.com
