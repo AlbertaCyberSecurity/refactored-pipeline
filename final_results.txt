@@ -84710,3 +84710,6 @@ http://t1-bmr.ycpi.vip.deb.yahoo.com
 http://tw.cards.yahoo.com
 http://t2-bmr.ycpi.vip.deb.yahoo.com
 http://x1.ycpi.bf1.yahoo.com
+http://broadcast.yahoo.com
+http://t2-ha.ycpi.bga.yahoo.com
+http://tw.yts.billing.yahoo.com
