@@ -84713,3 +84713,6 @@ http://x1.ycpi.bf1.yahoo.com
 http://broadcast.yahoo.com
 http://t2-ha.ycpi.bga.yahoo.com
 http://tw.yts.billing.yahoo.com
+http://e1-bmp.ycpi.daa.yahoo.com
+http://t2-bmr.ycpi.cha.yahoo.com
+http://t2-ha.ycpi.aue.yahoo.com
