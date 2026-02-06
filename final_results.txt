@@ -84891,3 +84891,6 @@ http://t4-ha.ycpi.bra.yahoo.com
 http://rc.creators.yahoo.com
 http://t2-bmr.ycpi.vip.ata.yahoo.com
 http://t2.ycpi.vip.fra.yahoo.com
+https://ec2-ha.ycpi.bra.yahoo.com
+http://godoc.corp.yahoo.com
+http://t2-ha.ycpi.bra.yahoo.com
