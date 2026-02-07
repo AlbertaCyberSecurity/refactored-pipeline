@@ -84894,3 +84894,5 @@ http://t2.ycpi.vip.fra.yahoo.com
 https://ec2-ha.ycpi.bra.yahoo.com
 http://godoc.corp.yahoo.com
 http://t2-ha.ycpi.bra.yahoo.com
+dhrb-githook-001.data.corp.bf1.yahoo.com
+http://targeting-dmp-dev.analytics.yahoo.com
