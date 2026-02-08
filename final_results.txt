@@ -84896,3 +84896,8 @@ http://godoc.corp.yahoo.com
 http://t2-ha.ycpi.bra.yahoo.com
 dhrb-githook-001.data.corp.bf1.yahoo.com
 http://targeting-dmp-dev.analytics.yahoo.com
+http://br.busca.yahoo.com
+http://download.360.yahoo.com
+http://prod.helpcachetool.media.corp.yahoo.com
+http://t1-ha.ycpi.bra.yahoo.com
+http://x2.ycpi.bf1.yahoo.com
