@@ -84905,3 +84905,8 @@ http://ca.dir.yahoo.com
 http://tw.cpartner.billing.yahoo.com
 admin-hv5.ops.bgz.yahoo.com
 https://perf-vega.commerce.yahoo.com
+admin-hv8.ops.bgz.yahoo.com
+admin-hv6.ops.bgz.yahoo.com
+admin-hv7.ops.bgz.yahoo.com
+http://blogs.360.yahoo.com
+http://tw.pay.buy.yahoo.com
