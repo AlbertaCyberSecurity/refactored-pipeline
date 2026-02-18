@@ -84911,3 +84911,5 @@ admin-hv7.ops.bgz.yahoo.com
 http://blogs.360.yahoo.com
 http://tw.pay.buy.yahoo.com
 http://e1-bmp.ycpi.deb.yahoo.com
+http://3c-events.yahoo.com
+https://tdv2-app-fp-public-staging.fp.yahoo.com
