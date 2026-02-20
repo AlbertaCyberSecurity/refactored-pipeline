@@ -84913,3 +84913,7 @@ http://tw.pay.buy.yahoo.com
 http://e1-bmp.ycpi.deb.yahoo.com
 http://3c-events.yahoo.com
 https://tdv2-app-fp-public-staging.fp.yahoo.com
+http://fr.message.360.yahoo.com
+http://real-us.autos.yahoo.com
+http://t3-ha.ycpi.bra.yahoo.com
+http://tw-billing.bid.yahoo.com
