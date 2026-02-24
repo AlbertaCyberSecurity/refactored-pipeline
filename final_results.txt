@@ -84918,3 +84918,8 @@ http://real-us.autos.yahoo.com
 http://t3-ha.ycpi.bra.yahoo.com
 http://tw-billing.bid.yahoo.com
 http://t1.ycpi.vip.dca.yahoo.com
+https://beta-brandtoolkit.yahoo.com
+https://beta-legal.yahoo.com
+https://beta-safety.yahoo.com
+https://beta1-policies.yahoo.com
+http://beta1-legal.yahoo.com
