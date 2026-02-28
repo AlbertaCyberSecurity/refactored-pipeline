@@ -84924,3 +84924,5 @@ https://beta-safety.yahoo.com
 https://beta1-policies.yahoo.com
 http://beta1-legal.yahoo.com
 http://dtm-api.analytics.yahoo.com
+http://badge.finance.yahoo.com
+http://ec2-ha.ycpi.bra.yahoo.com
