@@ -84927,3 +84927,10 @@ http://dtm-api.analytics.yahoo.com
 http://badge.finance.yahoo.com
 http://ec2-ha.ycpi.bra.yahoo.com
 http://wetter.de.yahoo.com
+admin-hv3.ops.ams.yahoo.com
+admin-hv2.ops.ams.yahoo.com
+admin-hv4.ops.ams.yahoo.com
+admin-hv1.ops.ams.yahoo.com
+dcs-dev-ups.analytics.yahoo.com
+http://t1-bmr.ycpi.cha.yahoo.com
+http://t2-ha.ycpi.frb.yahoo.com
