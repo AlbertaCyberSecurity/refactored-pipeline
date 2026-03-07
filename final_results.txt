@@ -84935,3 +84935,6 @@ dcs-dev-ups.analytics.yahoo.com
 http://t1-bmr.ycpi.cha.yahoo.com
 http://t2-ha.ycpi.frb.yahoo.com
 canary.yahoo.com
+admin-hv4.ops.bfy.yahoo.com
+admin-hv3.ops.bfy.yahoo.com
+bigspare-001.mysql.corp.bf1.yahoo.com
