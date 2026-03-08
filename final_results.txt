@@ -84938,3 +84938,7 @@ canary.yahoo.com
 admin-hv4.ops.bfy.yahoo.com
 admin-hv3.ops.bfy.yahoo.com
 bigspare-001.mysql.corp.bf1.yahoo.com
+admin-hv10.ops.coz.yahoo.com
+admin-hv7.ops.coz.yahoo.com
+admin-hv9.ops.coz.yahoo.com
+admin-hv8.ops.coz.yahoo.com
