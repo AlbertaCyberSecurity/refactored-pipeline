@@ -84945,3 +84945,8 @@ admin-hv8.ops.coz.yahoo.com
 new-admin-hv5.ops.aez.yahoo.com
 dev-dcs-ups.analytics.yahoo.com
 https://dev-dcs-ups.analytics.yahoo.com
+admin-hv3.ops.dce.yahoo.com
+admin-hv4.ops.dce.yahoo.com
+opsiq.mysql.corp.bf1.yahoo.com
+admin-hv2.ops.dce.yahoo.com
+admin-hv1.ops.dce.yahoo.com
