@@ -84952,3 +84952,5 @@ admin-hv2.ops.dce.yahoo.com
 admin-hv1.ops.dce.yahoo.com
 admin-hv3.ops.dcz.yahoo.com
 admin-hv4.ops.dcz.yahoo.com
+stage.sapi.authnapi.yahoo.com
+alpha.sapi.authnapi.yahoo.com
