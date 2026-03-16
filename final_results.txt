@@ -84954,3 +84954,4 @@ admin-hv3.ops.dcz.yahoo.com
 admin-hv4.ops.dcz.yahoo.com
 stage.sapi.authnapi.yahoo.com
 alpha.sapi.authnapi.yahoo.com
+http://oidc.prod.origin.checkout.yahoo.com
