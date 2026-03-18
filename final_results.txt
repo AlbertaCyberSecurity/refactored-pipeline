@@ -84955,3 +84955,7 @@ admin-hv4.ops.dcz.yahoo.com
 stage.sapi.authnapi.yahoo.com
 alpha.sapi.authnapi.yahoo.com
 http://oidc.prod.origin.checkout.yahoo.com
+playground-nakama.dev.games.yahoo.com
+playground-api.dev.games.yahoo.com
+https://playground-api.dev.games.yahoo.com
+http://playground-nakama.dev.games.yahoo.com
