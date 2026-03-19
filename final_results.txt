@@ -84959,3 +84959,4 @@ playground-nakama.dev.games.yahoo.com
 playground-api.dev.games.yahoo.com
 https://playground-api.dev.games.yahoo.com
 http://playground-nakama.dev.games.yahoo.com
+https://playground-nakama.dev.games.yahoo.com
