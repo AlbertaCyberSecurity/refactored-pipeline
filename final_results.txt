@@ -84961,3 +84961,4 @@ https://playground-api.dev.games.yahoo.com
 http://playground-nakama.dev.games.yahoo.com
 https://playground-nakama.dev.games.yahoo.com
 http://t1-bmr.ycpi.vip.ata.yahoo.com
+http://t1-ha.ycpi.frb.yahoo.com
