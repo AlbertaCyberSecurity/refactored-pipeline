@@ -84962,3 +84962,11 @@ http://playground-nakama.dev.games.yahoo.com
 https://playground-nakama.dev.games.yahoo.com
 http://t1-bmr.ycpi.vip.ata.yahoo.com
 http://t1-ha.ycpi.frb.yahoo.com
+rcmdapi.eds.yahoo.com
+payuni-gateway.ec.yahoo.com
+rushbuy.buy.yahoo.com
+http://dk.yahoo.com
+https://payuni-gateway.ec.yahoo.com
+https://rcmdapi.eds.yahoo.com
+https://rushbuy.buy.yahoo.com
+http://t1-ha.ycpi.cob.yahoo.com
