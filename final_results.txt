@@ -84970,3 +84970,5 @@ https://payuni-gateway.ec.yahoo.com
 https://rcmdapi.eds.yahoo.com
 https://rushbuy.buy.yahoo.com
 http://t1-ha.ycpi.cob.yahoo.com
+qai-dcs-ups.analytics.yahoo.com
+http://payuni-gateway.ec.yahoo.com
