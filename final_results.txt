@@ -84973,3 +84973,4 @@ http://t1-ha.ycpi.cob.yahoo.com
 qai-dcs-ups.analytics.yahoo.com
 http://payuni-gateway.ec.yahoo.com
 https://qai-dcs-ups.analytics.yahoo.com
+http://t1.ycpi.vip.fra.yahoo.com
