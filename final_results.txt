@@ -84976,3 +84976,5 @@ https://qai-dcs-ups.analytics.yahoo.com
 http://t1.ycpi.vip.fra.yahoo.com
 http://playground-api.dev.games.yahoo.com
 http://rushbuy.buy.yahoo.com
+grafana.st.bf1.yahoo.com
+prometheus.st.bf1.yahoo.com
