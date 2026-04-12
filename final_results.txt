@@ -84978,3 +84978,10 @@ http://playground-api.dev.games.yahoo.com
 http://rushbuy.buy.yahoo.com
 grafana.st.bf1.yahoo.com
 prometheus.st.bf1.yahoo.com
+calendar.aol.yahoo.com
+apis.calendar.aol.yahoo.com
+orafileradmin01.fin.corp.gq1.yahoo.com
+http://apis.calendar.aol.yahoo.com
+http://calendar.aol.yahoo.com
+http://rcmdapi.eds.yahoo.com
+http://t1-bmr.ycpi.vip.daa.yahoo.com
