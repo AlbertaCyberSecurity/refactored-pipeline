@@ -84988,3 +84988,5 @@ http://t1-bmr.ycpi.vip.daa.yahoo.com
 http://qai-dcs-ups.analytics.yahoo.com
 connectid-dcs-test.s2s.analytics.yahoo.com
 https://connectid-dcs-test.s2s.analytics.yahoo.com
+connectid-canary.s2s.analytics.yahoo.com
+https://connectid-canary.s2s.analytics.yahoo.com
