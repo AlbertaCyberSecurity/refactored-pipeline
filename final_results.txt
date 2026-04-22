@@ -84994,3 +84994,6 @@ stg-pub.gcp.athenz.yahoo.com
 msd-pub.gcp.athenz.yahoo.com
 http://connectid-canary.s2s.analytics.yahoo.com
 http://connectid-dcs-test.s2s.analytics.yahoo.com
+vpn2-1-gci.twz1.corp.yahoo.com
+vpn1-1-gci.twz1.corp.yahoo.com
+vpn-1-gci.twz1.corp.yahoo.com
