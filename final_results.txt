@@ -84997,3 +84997,5 @@ http://connectid-dcs-test.s2s.analytics.yahoo.com
 vpn2-1-gci.twz1.corp.yahoo.com
 vpn1-1-gci.twz1.corp.yahoo.com
 vpn-1-gci.twz1.corp.yahoo.com
+upload.360.yahoo.com
+https://upload.360.yahoo.com
