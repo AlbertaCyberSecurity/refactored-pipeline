@@ -84999,3 +84999,6 @@ vpn1-1-gci.twz1.corp.yahoo.com
 vpn-1-gci.twz1.corp.yahoo.com
 upload.360.yahoo.com
 https://upload.360.yahoo.com
+mail.aol.yahoo.com
+aol.yahoo.com
+https://aol.yahoo.com
