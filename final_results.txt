@@ -85003,3 +85003,14 @@ mail.aol.yahoo.com
 aol.yahoo.com
 https://aol.yahoo.com
 http://dev-dcs-ups.analytics.yahoo.com
+yts.billing.yahoo.com
+tw.mwc.srch.ect.yahoo.com
+vault-api.bid.yahoo.com
+cpartner.billing.yahoo.com
+mail.latino.aol.yahoo.com
+billing.bid.yahoo.com
+http://mail.latino.aol.yahoo.com
+http://mail.aol.yahoo.com
+http://msd-pub.gcp.athenz.yahoo.com
+https://stg-pub.gcp.athenz.yahoo.com
+https://tw.mwc.srch.ect.yahoo.com
