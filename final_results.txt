@@ -91662,3 +91662,17 @@ https://www.travel.yahoo.com
 http://www.shine.yahoo.com
 https://www.video.search.yahoo.com
 http://www.www.yahoo.com
+https://category-public.nevec.yahoo.com
+http://dk.search.yahoo.com
+http://hk.knowledge.search.yahoo.com
+http://my.search.yahoo.com
+http://pe.video.search.yahoo.com
+http://pk.search.yahoo.com
+http://plus.yahoo.com
+http://submit.search.yahoo.com
+http://tw.info.search.yahoo.com
+http://uk.movies.yahoo.com
+http://uk.subscriptions.yahoo.com
+http://uk.celebrity.search.yahoo.com
+http://www.health.yahoo.com
+https://www.maps.yahoo.com
