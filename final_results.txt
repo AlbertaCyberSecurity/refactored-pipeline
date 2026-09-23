@@ -91717,3 +91717,7 @@ http://stock.yahoo.com
 http://tw.local.search.yahoo.com
 http://www.music.yahoo.com
 http://www.staging.shopping.yahoo.com
+api-fantasy-mobile.sports.yahoo.com
+https://api-fantasy-mobile.sports.yahoo.com
+http://pe.news.search.yahoo.com
+http://vn.news.search.yahoo.com
