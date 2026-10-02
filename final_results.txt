@@ -91912,3 +91912,6 @@ http://tw.shopping.search.yahoo.com
 http://uk.apps.search.yahoo.com
 http://www.dev.tech.yahoo.com
 http://www.local.yahoo.com
+maktoob.video.search.yahoo.com
+https://maktoob.video.search.yahoo.com
+http://www.entertainment.yahoo.com
