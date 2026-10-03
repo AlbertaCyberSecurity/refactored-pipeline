@@ -91915,3 +91915,17 @@ http://www.local.yahoo.com
 maktoob.video.search.yahoo.com
 https://maktoob.video.search.yahoo.com
 http://www.entertainment.yahoo.com
+mtaproxy1.biz.mail.vip.bf1.yahoo.com
+mtaproxy1.biz.mail.vip.gq1.yahoo.com
+http://ca.yhs4.search.yahoo.com
+http://gamma.frontier.mail.yahoo.com
+http://gr.yhs4.search.yahoo.com
+http://lt.search.yahoo.com
+http://monalixa-api.yahoo.com
+http://ph.search.yahoo.com
+http://ro.yhs4.search.yahoo.com
+http://scout.yahoo.com
+http://stage.favloc.location.yahoo.com
+http://stage.ws.progrss.yahoo.com
+http://www.mobile.yahoo.com
+http://www.weather.yahoo.com
