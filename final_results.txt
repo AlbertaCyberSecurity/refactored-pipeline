@@ -91929,3 +91929,8 @@ http://stage.favloc.location.yahoo.com
 http://stage.ws.progrss.yahoo.com
 http://www.mobile.yahoo.com
 http://www.weather.yahoo.com
+stage.yakl-rules.ops.yahoo.com
+cc.yahoo.com
+beta-meta.legal.yahoo.com
+https://beta-meta.legal.yahoo.com
+http://www.staging.creators.yahoo.com
